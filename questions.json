@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "The 1927 novel Der Steppenwolf is one of the most famous works of which German-born writer?",
+    "choice1": "Thomas Mann",
+    "choice2": "Herman Hesse",
+    "choice3": "Gunter Grass",
+    "choice4": "Franz Kafka",
+    "answer": 2
+  },
+  {
+    "question": "Who was the illustrator of Lewis Carroll's books Alice's Adventures in Wonderland and Through The Looking Glass?",
+    "choice1": "John Tenniel",
+    "choice2": "Arthur Rackham",
+    "choice3": "E. H. Shepard",
+    "choice4": "Randolph Caldecott",
+    "answer": 1
+  },
+  {
+    "question": "In which Shakespeare play does the character Caliban appear?",
+    "choice1": "The Tempest",
+    "choice2": "Titus Andronicus",
+    "choice3": "Macbeth",
+    "choice4": "Twelfth Night",
+    "answer": 1
+  },
+  {
+    "question": "Carlos Acosta is a leading name in which field of the arts?",
+    "choice1": "Poetry",
+    "choice2": "Sculpture",
+    "choice3": "Playwright",
+    "choice4": "Ballet",
+    "answer": 4
+  },
+  {
+    "question": "The best-selling author Paulo Coelho was born in which country?",
+    "choice1": "Brazil",
+    "choice2": "Argentina",
+    "choice3": "Bolivia",
+    "choice4": "Ecuador",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the inn where Jim Hawkins lives at the beginning of Treasure Island?",
+    "choice1": "The Admiral Cochrane",
+    "choice2": "The Admiral Nelson",
+    "choice3": "The Admiral Benbow",
+    "choice4": "The Admiral",
+    "answer": 3
+  },
+  {
+    "question": "Who wrote the 1968 science fiction novel Do Androids Dream of Electric Sheep?",
+    "choice1": "L Ron Hubbard",
+    "choice2": "Philip K Dick",
+    "choice3": "Arthur C Clarke",
+    "choice4": "Robert A Heinlein",
+    "answer": 2
+  },
+  {
+    "question": "Sir Percival Glyde and Walter Hartright are characters in which novel by Wilkie Collins?",
+    "choice1": "Armadale",
+    "choice2": "The Moonstone",
+    "choice3": "The Woman In White",
+    "choice4": "No Name",
+    "answer": 3
+  },
+  {
+    "question": "'In Xanadu did Kubla Khan a stately pleasure decree' are lines written by which poet?",
+    "choice1": "Byron",
+    "choice2": "Keats",
+    "choice3": "Shelley",
+    "choice4": "Coleridge",
+    "answer": 4
+  },
+  {
+    "question": "Which author, born in 1894, worked as a private detective for the Pinkerton Agency before finding success as a writer?",
+    "choice1": "Dashiell Hammett",
+    "choice2": "Mickey Spillane",
+    "choice3": "Raymond Chandler",
+    "choice4": "Jack Benny",
+    "answer": 1
+  },
+  {
+    "question": "The Dutch speciality know as 'rijsttafel' originated in which other country?",
+    "choice1": "Singapore",
+    "choice2": "Japan",
+    "choice3": "Indonesia",
+    "choice4": "Thailand",
+    "answer": 3
+  },
+  {
+    "question": "The cut of pork meat known as the 'hock' comes from which part of the pig?",
+    "choice1": "Leg",
+    "choice2": "Cheek",
+    "choice3": "Belly",
+    "choice4": "Neck",
+    "answer": 1
+  },
+  {
+    "question": "What type of pulses are normally contained within a can of baked beans?",
+    "choice1": "Runner Beans",
+    "choice2": "Haricot Beans",
+    "choice3": "Pinto Beans",
+    "choice4": "Kidney Beans",
+    "answer": 2
+  },
+  {
+    "question": "Grenadine syrup is traditionally made from which fruit?",
+    "choice1": "Mango",
+    "choice2": "Pomegranate",
+    "choice3": "Lime",
+    "choice4": "Grapefruit",
+    "answer": 2
+  },
+  {
+    "question": "What is the name given to the doughty, soft white rolls that are a speciality in Waterford City in Ireland?",
+    "choice1": "Coddle",
+    "choice2": "Boxty",
+    "choice3": "Blaa",
+    "choice4": "Craic",
+    "answer": 3
+  },
+  {
+    "question": "Which herb is known in the USA as cilantro?",
+    "choice1": "Coriander",
+    "choice2": "Parsley",
+    "choice3": "Thyme",
+    "choice4": "Tarragon",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the French monk often credited with inventing champagne?",
+    "choice1": "Perignon",
+    "choice2": "Pochard",
+    "choice3": "Bollinger",
+    "choice4": "Cuvee",
+    "answer": 1
+  },
+  {
+    "question": "What type of food is 'Stinking Bishop'?",
+    "choice1": "Fish soup",
+    "choice2": "Cheese",
+    "choice3": "Porridge",
+    "choice4": "Mushroom",
+    "answer": 2
+  },
+  {
+    "question": "In Turkish cuisine, what name is given to the popular sweet pastries made of nuts, sugar and filo pastry?",
+    "choice1": "Lokum",
+    "choice2": "Dolma",
+    "choice3": "Baklava",
+    "choice4": "Tulumba Tatlisi",
+    "answer": 3
+  },
+  {
+    "question": "What type of salad is traditionally made with tomato, olives and feta cheese?",
+    "choice1": "Waldorf Salad",
+    "choice2": "Greek Salad",
+    "choice3": "Nicoise Salad",
+    "choice4": "Israeli Salad",
+    "answer": 2
+  },
+  {
+    "question": "Which Dr Who actor played the title role in the 2005 TV drama 'casanova'?",
+    "choice1": "David Tennant",
+    "choice2": "Christopher Eccleston",
+    "choice3": "Matt Smith",
+    "choice4": "Peter Capaldi",
+    "answer": 1
+  },
+  {
+    "question": "What was the catchphrase of the comedian Tommy Cooper",
+    "choice1": "That's a cracker!",
+    "choice2": "Just like that!",
+    "choice3": "You are awful!",
+    "choice4": "There you go!",
+    "answer": 2
+  },
+  {
+    "question": "What was the name of the canine sidekick of the comedian Bernie Winters?",
+    "choice1": "Spit",
+    "choice2": "Sprocket",
+    "choice3": "Schnorbitz",
+    "choice4": "Split",
+    "answer": 3
+  },
+  {
+    "question": "Who played the title role in the 2004 film Sky Captain and the World of Tomorrow?",
+    "choice1": "Hugh Jackman",
+    "choice2": "Jude Law",
+    "choice3": "Daniel Craig",
+    "choice4": "Will Smith",
+    "answer": 2
+  },
+  {
+    "question": "In which country was Spike Milligan born?",
+    "choice1": "India",
+    "choice2": "Canada",
+    "choice3": "Australia",
+    "choice4": "South Africa",
+    "answer": 1
+  },
+  {
+    "question": "Who played Prince Feisal in David Lean's 1962 film 'Lawrence of Arabia'",
+    "choice1": "Anthony Quinn",
+    "choice2": "Omar Sharif",
+    "choice3": "Peter O'Toole",
+    "choice4": "Sir Alec Guinness",
+    "answer": 4
+  },
+  {
+    "question": "Before becoming a full-time actor, Harrison Ford worked in what field?",
+    "choice1": "Medicine",
+    "choice2": "Mechanic",
+    "choice3": "Carpentry",
+    "choice4": "Advertising",
+    "answer": 3
+  },
+  {
+    "question": "The henchman Oddjob appears in which James Bond film?",
+    "choice1": "Thunderball",
+    "choice2": "Goldfinger",
+    "choice3": "From Russia With Love",
+    "choice4": "Dr No",
+    "answer": 2
+  },
+  {
+    "question": "The actor Matthew Broderick married which actress in 1997?",
+    "choice1": "Geena Davis",
+    "choice2": "Courteney Cox",
+    "choice3": "Sarah Jessica Parker",
+    "choice4": "Kristin Davis",
+    "answer": 3
+  },
+  {
+    "question": "David Nixen won a Best Actor Oscar in 1959 for his role in which film?",
+    "choice1": "Separate Tables",
+    "choice2": "The Scarlet Pimpernel",
+    "choice3": "Paper Tiger",
+    "choice4": "The Vikings",
+    "answer": 1
+  },
+  {
+    "question": "The billionaire Lakshmi Mittal made his fortune in which industry?",
+    "choice1": "Diamonds",
+    "choice2": "Retail",
+    "choice3": "Steel",
+    "choice4": "Oil",
+    "answer": 3
+  },
+  {
+    "question": "'When a man is tired of London, he is tired of life' is a famous quotation by which writer?",
+    "choice1": "William Wordsworth",
+    "choice2": "Wilfried Owen",
+    "choice3": "Samuel Johnson",
+    "choice4": "Oscar Wilde",
+    "answer": 3
+  },
+  {
+    "question": "Up-Helly-Aa is a fire festival held at the end of January in which part of the British Isles?",
+    "choice1": "Orkney",
+    "choice2": "Isles of Scilly",
+    "choice3": "Anglesey",
+    "choice4": "Shetland",
+    "answer": 4
+  },
+  {
+    "question": "In April 2007, Leading Seaman Faye Turney and her colleagues were returned to Britain after a brief period of incarceration in which country?",
+    "choice1": "Iran",
+    "choice2": "Iraq",
+    "choice3": "North Korea",
+    "choice4": "Lebanon",
+    "answer": 1
+  },
+  {
+    "question": "Until the adoption of the Euro in 2002, what was the unit of currency in Portugal?",
+    "choice1": "Peseta",
+    "choice2": "Lira",
+    "choice3": "Drachma",
+    "choice4": "Escudo",
+    "answer": 4
+  },
+  {
+    "question": "Who is the alter-ego of the comic book character Captain Marvel?",
+    "choice1": "Peter Parker",
+    "choice2": "Bruce Banner",
+    "choice3": "Billy Batson",
+    "choice4": "Doctor Doom",
+    "answer": 3
+  },
+  {
+    "question": "Which film star, born in 1925, launched his own brand of salad dressings and pasta sauces in 1982 with the profits going to charity?",
+    "choice1": "Jack Nicholson",
+    "choice2": "Paul Newman",
+    "choice3": "Robert Redford",
+    "choice4": "Roger Moore",
+    "answer": 2
+  },
+  {
+    "question": "Which word is represented by the symbol known as an 'ampersand'?",
+    "choice1": "Pound",
+    "choice2": "At",
+    "choice3": "And",
+    "choice4": "Or",
+    "answer": 3
+  },
+  {
+    "question": "Which type of cake takes its name from the French for 'lightning'?",
+    "choice1": "Profiterole",
+    "choice2": "Brioche",
+    "choice3": "Dacquoise",
+    "choice4": "Eclair",
+    "answer": 4
+  },
+  {
+    "question": "Flattop Jones and Pruneface are enemies of which comic book character",
+    "choice1": "Dick Tracy",
+    "choice2": "Batman",
+    "choice3": "The Incredible Hulk",
+    "choice4": "Superman",
+    "answer": 3
+  },
+  {
+    "question": "Which geographical term derives its name from the Latin 'to hold together'?",
+    "choice1": "Mountain Range",
+    "choice2": "Continent",
+    "choice3": "Peninsula",
+    "choice4": "Country",
+    "answer": 2
+  },
+  {
+    "question": "The volcanic Mount Etna is a feature of which island?",
+    "choice1": "Sicily",
+    "choice2": "Corsica",
+    "choice3": "Sardinia",
+    "choice4": "Capri",
+    "answer": 1
+  },
+  {
+    "question": "Clapham, Seattle and Reeth are all towns located in which part of the United Kingdom?",
+    "choice1": "Lake District",
+    "choice2": "Norfolk Broads",
+    "choice3": "The Cotswolds",
+    "choice4": "Yorkshire Dales",
+    "answer": 4
+  },
+  {
+    "question": "The flag of which country features a 24-spoked wheel at its centre?",
+    "choice1": "India",
+    "choice2": "Pakistan",
+    "choice3": "Bangladesh",
+    "choice4": "Sri Lanka",
+    "answer": 1
+  },
+  {
+    "question": "Which is the only country in the world to have a flag which is neither rectangular nor square?",
+    "choice1": "Nepal",
+    "choice2": "Turkey",
+    "choice3": "Japan",
+    "choice4": "Panama",
+    "answer": 1
+  },
+  {
+    "question": "What is the longest river in France?",
+    "choice1": "Seine",
+    "choice2": "Loire",
+    "choice3": "Dordogne",
+    "choice4": "Rhone",
+    "answer": 2
+  },
+  {
+    "question": "The name of which capital city means 'Good Winds' when translated from Spanish?",
+    "choice1": "Buenos Aires",
+    "choice2": "Brasilia",
+    "choice3": "Montevideo",
+    "choice4": "Asuncion",
+    "answer": 1
+  },
+  {
+    "question": "Which region of northern Asia, spreading from the Ural Mountains to the Pacific, constitutes over 50% of Russia?",
+    "choice1": "Kurdistan",
+    "choice2": "Siberia",
+    "choice3": "Anatolia",
+    "choice4": "Dagestan",
+    "answer": 2
+  },
+  {
+    "question": "Which body of water is considered to be the lowest point of the surface of the Earth?",
+    "choice1": "Dead Sea",
+    "choice2": "Red Sea",
+    "choice3": "Black Sea",
+    "choice4": "Yellow Sea",
+    "answer": 1
+  },
+  {
+    "question": "The Mojave Desert is a feature of which US state?",
+    "choice1": "Texas",
+    "choice2": "California",
+    "choice3": "Kentucky",
+    "choice4": "Florida",
+    "answer": 2
+  },
+  {
+    "question": "What type of weapon was the ancient 'Mangonel'?",
+    "choice1": "Battering Ram",
+    "choice2": "Crossbow",
+    "choice3": "Catapult",
+    "choice4": "Arrow",
+    "answer": 3
+  },
+  {
+    "question": "In which country did the Voortrekkers undertake a great migration in the 19th century?",
+    "choice1": "Russia",
+    "choice2": "South Africa",
+    "choice3": "Australia",
+    "choice4": "Netherlands",
+    "answer": 2
+  },
+  {
+    "question": "Which Roman emperor was believed by the historian Suetonius to have killed himself in 68AD?",
+    "choice1": "Augustus",
+    "choice2": "Nero",
+    "choice3": "Caligula",
+    "choice4": "Galba",
+    "answer": 2
+  },
+  {
+    "question": "In 1746, Flora MacDonald helped Bonnie Prince Charlie escape to which island after his defeat at the Battle of Culloden?",
+    "choice1": "Alderney",
+    "choice2": "Anglesey",
+    "choice3": "Skye",
+    "choice4": "Orkney",
+    "answer": 3
+  },
+  {
+    "question": "Which Anglo-Saxon Kingdom occupied land from the borders of Wales to the Humber?",
+    "choice1": "Wessex",
+    "choice2": "Bernicia",
+    "choice3": "Dumnonia",
+    "choice4": "Mercia",
+    "answer": 4
+  },
+  {
+    "question": "Although Queen Victoria's husband was always known as 'Albert', what was his actual first given name?",
+    "choice1": "Franz",
+    "choice2": "Ludwig",
+    "choice3": "Adolf",
+    "choice4": "Helmut",
+    "answer": 1
+  },
+  {
+    "question": "Henry VI of England was crowned King of which other European country in 1431?",
+    "choice1": "France",
+    "choice2": "Spain",
+    "choice3": "Belgium",
+    "choice4": "The Netherlands",
+    "answer": 1
+  },
+  {
+    "question": "Richard The Lionheart and Edward I belonged to which Royal House?",
+    "choice1": "Norman",
+    "choice2": "Plantagenet",
+    "choice3": "Tudor",
+    "choice4": "Stewart",
+    "answer": 2
+  },
+  {
+    "question": "On November 22nd 1718, which pirate was killed in a battle with a British naval force under the command of Robert Maynard?",
+    "choice1": "Redbeard",
+    "choice2": "Blackbeard",
+    "choice3": "Whitebeard",
+    "choice4": "Henry Morgan",
+    "answer": 2
+  },
+  {
+    "question": "Hever Castle in Kent was the childhood home of which historical figure?",
+    "choice1": "Duke of Wellington",
+    "choice2": "Florence Nightingale",
+    "choice3": "Catherine of Aragon",
+    "choice4": "Anne Boleyn",
+    "answer": 4
+  },
+  {
+    "question": "In 1991, 'Smells Like Teen Spirit' was a UK top ten single for which band?",
+    "choice1": "Aerosmith",
+    "choice2": "Metallica",
+    "choice3": "The Black Crowes",
+    "choice4": "Nirvana",
+    "answer": 4
+  },
+  {
+    "question": "Violetta Valery and Alfredo Germont are characters in which opera by Verdi?",
+    "choice1": "Aida",
+    "choice2": "La Traviata",
+    "choice3": "Rigoletto",
+    "choice4": "Nabucco",
+    "answer": 2
+  },
+  {
+    "question": "Vanessa Mae is best known as a virtuoso on which musical instrument?",
+    "choice1": "Violin",
+    "choice2": "Flute",
+    "choice3": "Guitar",
+    "choice4": "Cello",
+    "answer": 1
+  },
+  {
+    "question": "'Here In My Heart', the first ever number one single in the official UK charts, was recorded by which singer?",
+    "choice1": "Al Martino",
+    "choice2": "Dean Martin",
+    "choice3": "Frankie Laine",
+    "choice4": "Bobby Darin",
+    "answer": 1
+  },
+  {
+    "question": "The St Matthew Passion is considered one of the masterpieces of which composer?",
+    "choice1": "Brahms",
+    "choice2": "Bach",
+    "choice3": "Beethoven",
+    "choice4": "Elgar",
+    "answer": 2
+  },
+  {
+    "question": "Parsifal is the final operatic work of which composer?",
+    "choice1": "Mozart",
+    "choice2": "Puccini",
+    "choice3": "Wagner",
+    "choice4": "Verdi",
+    "answer": 3
+  },
+  {
+    "question": "The pianist and composer Paderewski was also the Prime Minister of which country?",
+    "choice1": "Greece",
+    "choice2": "Romania",
+    "choice3": "Hungary",
+    "choice4": "Poland",
+    "answer": 4
+  },
+  {
+    "question": "The title of which Mozart opera roughly translates as 'Women are like that'?",
+    "choice1": "Lo Sposo Deluso",
+    "choice2": "Cosi Fan Tutte",
+    "choice3": "Die Zauberflote",
+    "choice4": "La Finta Semplice",
+    "answer": 2
+  },
+  {
+    "question": "Zadok The Priest, performed at every British coronation since that of George II, was written by which composer?",
+    "choice1": "Handel",
+    "choice2": "Purcell",
+    "choice3": "Beethoven",
+    "choice4": "Barber",
+    "answer": 1
+  },
+  {
+    "question": "Felix Mendelssohn's Hebrides Overture of 1830-1832 is more commonly known by which title?",
+    "choice1": "Giant's Causeway",
+    "choice2": "Arthur's Seat",
+    "choice3": "Fingal's Cave",
+    "choice4": "George's Chair",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the 1820 conspiracy designed to assassinate the Prime Minister Lord Liverpool and all of his cabinet?",
+    "choice1": "Monmouth Street Conspiracy",
+    "choice2": "Wigmore Street Conspiracy",
+    "choice3": "Berners Street Conspiracy",
+    "choice4": "Cato Street Conspiracy",
+    "answer": 4
+  },
+  {
+    "question": "What name is given to the 26 clergymen of the Church of England who sit in the House of Lords?",
+    "choice1": "Lords Spiritual",
+    "choice2": "Lords Temporal",
+    "choice3": "Lords Ecumenical",
+    "choice4": "Lords Bishop",
+    "answer": 1
+  },
+  {
+    "question": "The Hofberg Imperial Palace houses the offices of the president of which country?",
+    "choice1": "Russia",
+    "choice2": "Germany",
+    "choice3": "Austria",
+    "choice4": "Switzerland",
+    "answer": 3
+  },
+  {
+    "question": "Who replaced Betty Boothroyd as the Speaker of the House of Commons in the year 2000?",
+    "choice1": "Richard Buchanan",
+    "choice2": "Michael Martin",
+    "choice3": "John Reid",
+    "choice4": "Bryan Gould",
+    "answer": 2
+  },
+  {
+    "question": "Who was the Prime Minister in 1973, when an energy crisis prompted the government to implement a 3-day working week?",
+    "choice1": "Harold Wilson",
+    "choice2": "Edward Heath",
+    "choice3": "James Callaghan",
+    "choice4": "Margaret Thatcher",
+    "answer": 2
+  },
+  {
+    "question": "Who became the MP for the constituency of Richmond, Yorkshire in 1989?",
+    "choice1": "Michael Howard",
+    "choice2": "Iain Duncan Smith",
+    "choice3": "David Cameron",
+    "choice4": "William Hague",
+    "answer": 4
+  },
+  {
+    "question": "What term is used in the US Congress to describe the dealings in which members engage in order to get their bills through?",
+    "choice1": "Logrolling",
+    "choice2": "Gerrymandering",
+    "choice3": "Bulldozing",
+    "choice4": "Tobogganing",
+    "answer": 1
+  },
+  {
+    "question": "Who was the leader of the Conservative Party between 2001 and 2003?",
+    "choice1": "John Major",
+    "choice2": "William Hague",
+    "choice3": "Iain Duncan Smith",
+    "choice4": "Michael Howard",
+    "answer": 3
+  },
+  {
+    "question": "In 1989, the playwright and political dissident, Vaclav Havel, became president of which former communist party?",
+    "choice1": "Czechoslovakia",
+    "choice2": "Hungary",
+    "choice3": "Poland",
+    "choice4": "Romania",
+    "answer": 1
+  },
+  {
+    "question": "Which amendment to the US constitution states that no person 'be compelled in any criminal case to be a witness against himself'?",
+    "choice1": "First",
+    "choice2": "Third",
+    "choice3": "Fifth",
+    "choice4": "Seventh",
+    "answer": 3
+  },
+  {
+    "question": "'The God Delusion' is a controversial book by which scientist'",
+    "choice1": "Charles Darwin",
+    "choice2": "Richard Dawkins",
+    "choice3": "Stephen Hawking",
+    "choice4": "Stephen Jay Gould",
+    "answer": 2
+  },
+  {
+    "question": "What is the average period of orbit of Halley's comet?",
+    "choice1": "67 years",
+    "choice2": "76 years",
+    "choice3": "87 years",
+    "choice4": "96 years",
+    "answer": 2
+  },
+  {
+    "question": "In medicine, the prefix 'pneumo' refers to which part of the human body?",
+    "choice1": "Lungs",
+    "choice2": "Heart",
+    "choice3": "Liver",
+    "choice4": "Kidneys",
+    "answer": 1
+  },
+  {
+    "question": "What is the term for a security device that prevents unauthorised users gaining access to a computer network?",
+    "choice1": "Cookie",
+    "choice2": "Phish",
+    "choice3": "Hardware",
+    "choice4": "Firewall",
+    "answer": 4
+  },
+  {
+    "question": "In geology, which period of time takes its name from the Latin word for 'chalk'?",
+    "choice1": "Cretaceous",
+    "choice2": "Cambrian",
+    "choice3": "Permian",
+    "choice4": "Jurassic",
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the fine-grained form of the mineral gypsum, often used in decorative carvings?",
+    "choice1": "Soapstone",
+    "choice2": "Marcasite",
+    "choice3": "Alabaster",
+    "choice4": "Plaster",
+    "answer": 3
+  },
+  {
+    "question": "How many cervical vertebrae are there in the human body?",
+    "choice1": "2",
+    "choice2": "7",
+    "choice3": "12",
+    "choice4": "17",
+    "answer": 2
+  },
+  {
+    "question": "Which British inventor, born in 1937, is credited with the creation of the clockwork radio?",
+    "choice1": "James Dyson",
+    "choice2": "Clive Sinclair",
+    "choice3": "Trevor Baylis",
+    "choice4": "John Logie Baird",
+    "answer": 3
+  },
+  {
+    "question": "Organic chemistry is the study of compounds of which element?",
+    "choice1": "Oxygen",
+    "choice2": "Nitrogen",
+    "choice3": "Hydrogen",
+    "choice4": "Carbon",
+    "answer": 4
+  },
+  {
+    "question": "The electric eel, which is capabale of producing a charge of over 600 volts, is native to which continent?",
+    "choice1": "South America",
+    "choice2": "Africa",
+    "choice3": "Asia",
+    "choice4": "Oceania",
+    "answer": 1
+  },
+  {
+    "question": "Which trainer admitted tampering with Cassius Clay's boxing glove in 1963 during his fight against Henry Cooper?",
+    "choice1": "Emanuel Steward",
+    "choice2": "Freddie Roach",
+    "choice3": "Angelo Dundee",
+    "choice4": "Ignacio Beristain",
+    "answer": 3
+  },
+  {
+    "question": "Which sport features a 'line of scrimmage'?",
+    "choice1": "American Football",
+    "choice2": "Squash",
+    "choice3": "Cricket",
+    "choice4": "Rugby League",
+    "answer": 1
+  },
+  {
+    "question": "Which former Darts World Champion is nicknamed 'Darth Maple'?",
+    "choice1": "Steve Beaton",
+    "choice2": "Tony David",
+    "choice3": "John Part",
+    "choice4": "John Lowe",
+    "answer": 3
+  },
+  {
+    "question": "Which African country's national football team is nicknamed 'The Elephants'?",
+    "choice1": "Burkina Faso",
+    "choice2": "Cameroon",
+    "choice3": "Togo",
+    "choice4": "Ivory Coast",
+    "answer": 4
+  },
+  {
+    "question": "Who beat Bob Beamon's 23-year old long jump record at the 1991 World Championships in Tokyo?",
+    "choice1": "Mike Conley",
+    "choice2": "Mike Powell",
+    "choice3": "Carl Lewis",
+    "choice4": "Larry Myricks",
+    "answer": 2
+  },
+  {
+    "question": "Which American football team lost 4 consecutive Super Bowls between 1991 and 1994?",
+    "choice1": "Buffalo Bills",
+    "choice2": "Dallas Cowboys",
+    "choice3": "Miami Dolphins",
+    "choice4": "Seattle Seahawks",
+    "answer": 1
+  },
+  {
+    "question": "The Art of Captaincy is an influential book by which cricketer and psychiatrist?",
+    "choice1": "Tony Greig",
+    "choice2": "Colin Cowdrey",
+    "choice3": "Mike Brearley",
+    "choice4": "David Gower",
+    "answer": 3
+  },
+  {
+    "question": "In which year did Jonathan Edwards win his only Olympic gold medal?",
+    "choice1": "1988",
+    "choice2": "1992",
+    "choice3": "1996",
+    "choice4": "2000",
+    "answer": 4
+  },
+  {
+    "question": "In archery, what is the term for the notch on the rear of the arrow that clips onto the bow to hold it in place before shooting?",
+    "choice1": "The Crump",
+    "choice2": "The Nock",
+    "choice3": "The Dandy",
+    "choice4": "The Loop",
+    "answer": 2
+  },
+  {
+    "question": "The Sepang International Circuit is home to the Formula One Grand Prix of which country?",
+    "choice1": "Malaysia",
+    "choice2": "South Korea",
+    "choice3": "Singapore",
+    "choice4": "Japan",
+    "answer": 1
+  },
+  {
+    "question": "Which author wrote 'Guns aren't lawful: Nooses give; Gas smells awful; You might as well live' in 1937?",
+    "choice1": "Noel Coward",
+    "choice2": "Dorothy Parker",
+    "choice3": "F Scott Fitzgerald",
+    "choice4": "Eric Ambler",
+    "answer": 2
+  },
+  {
+    "question": "The French Lieutenant's Woman is a novel by which author?",
+    "choice1": "John Fowles",
+    "choice2": "Martin Amis",
+    "choice3": "Philip Roth",
+    "choice4": "William Faulkner",
+    "answer": 1
+  },
+  {
+    "question": "The Thought Police is a sinister organisation in which work of literature?",
+    "choice1": "Naked Lunch",
+    "choice2": "An Ordinary Spy",
+    "choice3": "Brave New World",
+    "choice4": "Nineteen Eighty Four",
+    "answer": 4
+  },
+  {
+    "question": "What was the name of Salvador Dali's wife?",
+    "choice1": "Beatrice",
+    "choice2": "Desiree",
+    "choice3": "Gala",
+    "choice4": "Frida",
+    "answer": 3
+  },
+  {
+    "question": "'A thing of beauty is a joy forever' is a line written by which poet born in 1795?",
+    "choice1": "Keats",
+    "choice2": "Donne",
+    "choice3": "Jonson",
+    "choice4": "Blake",
+    "answer": 1
+  },
+  {
+    "question": "The classic children's book 'Swallows and Amazons' is set in which part of the UK?",
+    "choice1": "South Wales",
+    "choice2": "East Anglia",
+    "choice3": "Lake District",
+    "choice4": "Yorkshire Dales",
+    "answer": 3
+  },
+  {
+    "question": "Which artist and satirist, born in 1697, was arrested as a spy when found sketching the fortifications of Calais?",
+    "choice1": "William Hogarth",
+    "choice2": "Jonathan Swift",
+    "choice3": "William Blake",
+    "choice4": "John Milton",
+    "answer": 1
+  },
+  {
+    "question": "Which type of sauce is traditionally made with vinegar, butter and egg yolks, flavoured with tarragon, shallots and chervill?",
+    "choice1": "Bordelaise",
+    "choice2": "Bearnaise",
+    "choice3": "Chasseur",
+    "choice4": "Bechamel",
+    "answer": 2
+  },
+  {
+    "question": "A Caipirinha cocktail is traditionally made with which fruit?",
+    "choice1": "Grapefruit",
+    "choice2": "Lemon",
+    "choice3": "Orange",
+    "choice4": "Lime",
+    "answer": 4
+  },
+  {
+    "question": "What is the main ingredient in the South African dish called 'Walkie Talkies'?",
+    "choice1": "Pig Trotters",
+    "choice2": "Pigeon Claws",
+    "choice3": "Rabbit Paws",
+    "choice4": "Chicken Feet",
+    "answer": 4
+  },
+  {
+    "question": "'Kir Royale' is a type of Champagne cocktail flavoured with what fruit liqueur?",
+    "choice1": "Peach",
+    "choice2": "Blackcurrant",
+    "choice3": "Plum",
+    "choice4": "Raspberry",
+    "answer": 2
+  },
+  {
+    "question": "In Japanese cuisine, what is the name of the seaweed wrappers used in the preparation of sushi?",
+    "choice1": "Nori",
+    "choice2": "Nigiri",
+    "choice3": "Natto",
+    "choice4": "Negitoro",
+    "answer": 1
+  },
+  {
+    "question": "The sparkling wine 'Prosecco' is traditionally made in which country?",
+    "choice1": "Portugal",
+    "choice2": "Spain",
+    "choice3": "Italy",
+    "choice4": "France",
+    "answer": 3
+  },
+  {
+    "question": "'Miel' is the French word for which foodstuff?",
+    "choice1": "Mustard",
+    "choice2": "Honey",
+    "choice3": "Jam",
+    "choice4": "Ketchup",
+    "answer": 2
+  },
+  {
+    "question": "'Gumbo' is a type of spicy stew traditionally associated with which US state?",
+    "choice1": "Louisiana",
+    "choice2": "Alabama",
+    "choice3": "Idaho",
+    "choice4": "Maine",
+    "answer": 1
+  },
+  {
+    "question": "In The TV series 'Neighbours', what was the name of the character played by Kylie Minogue?",
+    "choice1": "Jane",
+    "choice2": "Daphne",
+    "choice3": "Lucy",
+    "choice4": "Charlene",
+    "answer": 4
+  },
+  {
+    "question": "Who directed the innovative 1903 film 'The Great Train Robbery'?",
+    "choice1": "Abel Gance",
+    "choice2": "DW Griffith",
+    "choice3": "Edwin S Porter",
+    "choice4": "Thomas Edison",
+    "answer": 3
+  },
+  {
+    "question": "Who played the role of Lynda Day in the children's TV Series Press Gang?",
+    "choice1": "Patsy Kensit",
+    "choice2": "Denise Welch",
+    "choice3": "Julia Sawalha",
+    "choice4": "Samantha Janus",
+    "answer": 3
+  },
+  {
+    "question": "Which cult TV series of the 1960s was primarily filmed in Portmeirion, North Wales?",
+    "choice1": "The Champions",
+    "choice2": "The Prisoner",
+    "choice3": "The Avengers",
+    "choice4": "The Outer Limits",
+    "answer": 2
+  },
+  {
+    "question": "Which TV presenter claimed to be a CIA hitman in his autobiography 'Confessions of a Dangerous Mind'?",
+    "choice1": "Chuck Barris",
+    "choice2": "Johnny Carson",
+    "choice3": "Merv Griffin",
+    "choice4": "Montel Williams",
+    "answer": 1
+  },
+  {
+    "question": "Which British sitcom features two flatmates named Jeremy and Mark?",
+    "choice1": "Peep Show",
+    "choice2": "Spaced",
+    "choice3": "Men Behaving Badly",
+    "choice4": "Saxondale",
+    "answer": 1
+  },
+  {
+    "question": "Ascenders, Hexcentrics and Carabiners are pieces of equipment used in which sport?",
+    "choice1": "Luge",
+    "choice2": "Skeleton",
+    "choice3": "Rock Climbing",
+    "choice4": "Base Jumping",
+    "answer": 3
+  },
+  {
+    "question": "The Whispering Gallery is a well-known part of which London tourist attraction?",
+    "choice1": "National Gallery",
+    "choice2": "St. Paul's Cathedral",
+    "choice3": "Tower of London",
+    "choice4": "Buckingham Palace",
+    "answer": 2
+  },
+  {
+    "question": "What is the traditional ending to a formal business letter not addressed to a specific person?",
+    "choice1": "Yours sincerely",
+    "choice2": "Yours faithfully",
+    "choice3": "Yours loyally",
+    "choice4": "Yours humbly",
+    "answer": 2
+  },
+  {
+    "question": "The Cutty Sark takes its name from the clothing of a character in a poem by which writer?",
+    "choice1": "William Shakespeare",
+    "choice2": "Christina Rossetti",
+    "choice3": "Robert Burns",
+    "choice4": "William Blake",
+    "answer": 3
+  },
+  {
+    "question": "The long running radio show 'The Archers' is set in which fictional county?",
+    "choice1": "Borsetshire",
+    "choice2": "Partminster",
+    "choice3": "Camewood",
+    "choice4": "Remanshire",
+    "answer": 1
+  },
+  {
+    "question": "What status is awarded to beaches across Europe that are safe, clean and meet water quality requirements?",
+    "choice1": "White Flag",
+    "choice2": "Yellow Flag",
+    "choice3": "Green Flag",
+    "choice4": "Blue Flag",
+    "answer": 4
+  },
+  {
+    "question": "What type of organisms are 'Death Cap' and 'Fly Agaric'?",
+    "choice1": "Mollusc",
+    "choice2": "Crustacean",
+    "choice3": "Arachnid",
+    "choice4": "Fungus",
+    "answer": 4
+  },
+  {
+    "question": "Pantyhose is another name for which item of clothing?",
+    "choice1": "Dressing Gown",
+    "choice2": "Pyjamas",
+    "choice3": "Bra",
+    "choice4": "Tights",
+    "answer": 4
+  },
+  {
+    "question": "Which major river has its source near the village of Kemble in the Cotswolds?",
+    "choice1": "Thames",
+    "choice2": "Severn",
+    "choice3": "Mersey",
+    "choice4": "Tyne",
+    "answer": 1
+  },
+  {
+    "question": "The Great Barrier Reef lies off the coast of which Australian state?",
+    "choice1": "Western Australia",
+    "choice2": "Northern Territory",
+    "choice3": "Queensland",
+    "choice4": "South Australia",
+    "answer": 3
+  },
+  {
+    "question": "In the 1960s, the old London Bridge was bought and moved stone-by-stone to which city in Arizona?",
+    "choice1": "Lake Havasu",
+    "choice2": "Phoenix",
+    "choice3": "Tucson",
+    "choice4": "Scottsdale",
+    "answer": 1
+  },
+  {
+    "question": "Logan International Airport and Bunker Hill are features of which US city?",
+    "choice1": "Philadelphia",
+    "choice2": "Cincinnati",
+    "choice3": "Boston",
+    "choice4": "Miami",
+    "answer": 3
+  },
+  {
+    "question": "Located on the Dorset coast, Durdle Door is an example of what natural phenomenon?",
+    "choice1": "Stone Arch",
+    "choice2": "Sand Dune",
+    "choice3": "River Delta",
+    "choice4": "Land Spit",
+    "answer": 1
+  },
+  {
+    "question": "Which Scottish city was built on the southern shore of the Firth of Forth?",
+    "choice1": "Glasgow",
+    "choice2": "Edinburgh",
+    "choice3": "Dundee",
+    "choice4": "Aberdeen",
+    "answer": 2
+  },
+  {
+    "question": "The 'Cidade de Deus' or 'City of God', is a notorious slum area in which city?",
+    "choice1": "Bogota",
+    "choice2": "Manila",
+    "choice3": "Rio De Janeiro",
+    "choice4": "Lima",
+    "answer": 3
+  },
+  {
+    "question": "'Kir Royale' is a type of Champagne cocktail flavoured with what fruit liqueur?",
+    "choice1": "Peach",
+    "choice2": "Blackcurrant",
+    "choice3": "Plum",
+    "choice4": "Raspberry",
+    "answer": 2
+  },
+  {
+    "question": "'The Hammer of the Scots' was a nickname of which King of England?",
+    "choice1": "Edward I",
+    "choice2": "Henry I",
+    "choice3": "James I",
+    "choice4": "Charles I",
+    "answer": 1
+  },
+  {
+    "question": "'Operation Mongoose' was launched by President John F Kennedy in an attempt to overthrow which communist leader?",
+    "choice1": "Nikita Khrushchev",
+    "choice2": "Mao Tse-Tung",
+    "choice3": "Fidel Castro",
+    "choice4": "Antonin Novotny",
+    "answer": 3
+  },
+  {
+    "question": "The Andes mountain range was at the centre of which civilisation?",
+    "choice1": "Aztec",
+    "choice2": "Ottoman",
+    "choice3": "Inca",
+    "choice4": "Maya",
+    "answer": 3
+  },
+  {
+    "question": "What was the name of the heavily armed soldiers who formed the backbone of ancient Greek armies?",
+    "choice1": "Legionaries",
+    "choice2": "Praetorians",
+    "choice3": "Hoplites",
+    "choice4": "Cohortes",
+    "answer": 3
+  },
+  {
+    "question": "What name is given to the eight letters that, if genuine, prove Mary, Queen of Scots' involvement in the murder of Lord Darnley?",
+    "choice1": "Portmanteau Letters",
+    "choice2": "Casket Letters",
+    "choice3": "Rosebowl Letters",
+    "choice4": "Bothwell Letters",
+    "answer": 2
+  },
+  {
+    "question": "Who was the king of England between 1689 and 1702, ruling jointly with his wife Mary II until her death in 1694?",
+    "choice1": "George II",
+    "choice2": "William III",
+    "choice3": "Edward IV",
+    "choice4": "James II",
+    "answer": 2
+  },
+  {
+    "question": "Which defence treaty was signed by the Soviet Union and its Eastern Bloc allies in 1955?",
+    "choice1": "Moscow Pact",
+    "choice2": "Berlin Pact",
+    "choice3": "Prague Pact",
+    "choice4": "Warsaw Pact",
+    "answer": 4
+  },
+  {
+    "question": "What was the first pitched battle of the English Civil War?",
+    "choice1": "Battle of Edgehill",
+    "choice2": "Battle of Nantwich",
+    "choice3": "Battle of Rowton Heath",
+    "choice4": "Battle of Naseby",
+    "answer": 1
+  },
+  {
+    "question": "The Stooges found fame as the backing band of which singer?",
+    "choice1": "Iggy Pop",
+    "choice2": "Rod Stewart",
+    "choice3": "Lou Reed",
+    "choice4": "David Bowie",
+    "answer": 1
+  },
+  {
+    "question": "'Everything Must Go' and 'This Is My Truth, Tell Me Yours' are hit albums by which band?",
+    "choice1": "Travis",
+    "choice2": "Stereophonics",
+    "choice3": "Super Furry Animals",
+    "choice4": "Manic Street Preachers",
+    "answer": 4
+  },
+  {
+    "question": "Who composed the song 'Puttin' On The Ritz'?",
+    "choice1": "Cole Porter",
+    "choice2": "George Gershwin",
+    "choice3": "Ivor Novello",
+    "choice4": "Irving Berlin",
+    "answer": 4
+  },
+  {
+    "question": "The Concerto for Cello in E Minor famously recorded by Jacqueline du Pre in 1965 is a work by which composer?",
+    "choice1": "Elgar",
+    "choice2": "Vaughan Williams",
+    "choice3": "Delius",
+    "choice4": "Barber",
+    "answer": 1
+  },
+  {
+    "question": "Which musical features the song 'Hernando's Hideaway'?",
+    "choice1": "Barnum",
+    "choice2": "The Pajama Game",
+    "choice3": "West Side Story",
+    "choice4": "Sunset Boulevard",
+    "answer": 2
+  },
+  {
+    "question": "Who composed the music for the song 'It Don't Mean A Thing (If It Ain't Got That Swing)'?",
+    "choice1": "Dizzy Gillespie",
+    "choice2": "Duke Ellington",
+    "choice3": "Count Basie",
+    "choice4": "Artie Shaw",
+    "answer": 2
+  },
+  {
+    "question": "Robert Smith, famous for his smudged lipstick and back-combed hair, found fame as the lead singer of which band?",
+    "choice1": "Erasure",
+    "choice2": "Primal Scream",
+    "choice3": "The Cure",
+    "choice4": "Soft Cell",
+    "answer": 3
+  },
+  {
+    "question": "Which female singer featured on the 1993 Take That hit single 'Relight My Fire'?",
+    "choice1": "Lulu",
+    "choice2": "Diana Ross",
+    "choice3": "Cher",
+    "choice4": "Debbie Harry",
+    "answer": 1
+  },
+  {
+    "question": "Which politician famously said 'A week is a long time in politics?",
+    "choice1": "Winston Churchill",
+    "choice2": "Clement Atlee",
+    "choice3": "Harold Wilson",
+    "choice4": "Edward Heath",
+    "answer": 3
+  },
+  {
+    "question": "On which beach did Neil Kinnock famously fall over into the oncoming tide during a photo opportunity at the 1983 Labour Party conference?",
+    "choice1": "Bridlington",
+    "choice2": "Brighton",
+    "choice3": "Bournemouth",
+    "choice4": "Blackpool",
+    "answer": 2
+  },
+  {
+    "question": "Who was the British Prime Minister during the Cuban Missile Crisis?",
+    "choice1": "Anthony Eden",
+    "choice2": "Harold Wilson",
+    "choice3": "Harold Macmillan",
+    "choice4": "Alec Douglas-Home",
+    "answer": 3
+  },
+  {
+    "question": "What has been banned in the UK House of Commons since 1693?",
+    "choice1": "Shouting",
+    "choice2": "Sneezing",
+    "choice3": "Sleeping",
+    "choice4": "Smoking",
+    "answer": 4
+  },
+  {
+    "question": "John Profumo was the Secretary of State for which department when he was forced to resign over the scandal named after him?",
+    "choice1": "War",
+    "choice2": "Education",
+    "choice3": "Health",
+    "choice4": "Trade and Industry",
+    "answer": 1
+  },
+  {
+    "question": "In 1981, Hosny Mubarak became the President of which country?",
+    "choice1": "Algeria",
+    "choice2": "Egypt",
+    "choice3": "Morocco",
+    "choice4": "Tunisia",
+    "answer": 2
+  },
+  {
+    "question": "Wno became the first female US Secretary of State in January 1997?",
+    "choice1": "Madeleine Albright",
+    "choice2": "Condoleezza Rice",
+    "choice3": "Hilary Clinton",
+    "choice4": "Nancy Pelosi",
+    "answer": 1
+  },
+  {
+    "question": "Who lost the Liberal Democrat leadership contest by just 511 votes to Nick Clegg in December 2007?",
+    "choice1": "Simon Hughes",
+    "choice2": "Vince Cable",
+    "choice3": "Tim Farron",
+    "choice4": "Chris Huhne",
+    "answer": 4
+  },
+  {
+    "question": "The class 'Gastropods' from the Greek meaning 'stomach-foot' includes which creatures?",
+    "choice1": "Ants",
+    "choice2": "Centipedes",
+    "choice3": "Slugs",
+    "choice4": "Woodlice",
+    "answer": 3
+  },
+  {
+    "question": "Methanoic acid is another name for which corrosive liquid, originally obtained from red ants?",
+    "choice1": "Nitric Acid",
+    "choice2": "Sulphuric Acid",
+    "choice3": "Formic Acid",
+    "choice4": "Tartaric Acid",
+    "answer": 3
+  },
+  {
+    "question": "What is a 'pluviometer' used to measure?",
+    "choice1": "Sea Level",
+    "choice2": "Radiation",
+    "choice3": "Temperature",
+    "choice4": "Rainfall",
+    "answer": 4
+  },
+  {
+    "question": "Kinkajou is another name for which tree-dwelling, fruit eating mammal?",
+    "choice1": "Prairie Dog",
+    "choice2": "Bandicoot Rat",
+    "choice3": "Honey Bear",
+    "choice4": "Marbled Cat",
+    "answer": 3
+  },
+  {
+    "question": "Which planet in our solar system is often referred to as 'The Red Planet'?",
+    "choice1": "Mars",
+    "choice2": "Mercury",
+    "choice3": "Jupiter",
+    "choice4": "Saturn",
+    "answer": 1
+  },
+  {
+    "question": "O2 is the chemical formula for oxygen, but O3 is the chemical formula for which gas?",
+    "choice1": "Carbon Monoxide",
+    "choice2": "Carbon Trioxide",
+    "choice3": "Osmium",
+    "choice4": "Ozone",
+    "answer": 4
+  },
+  {
+    "question": "The 'deltoid' is a triangular-shaped muscle that covers which part of the human body?",
+    "choice1": "Shoulder",
+    "choice2": "Knee",
+    "choice3": "Hip",
+    "choice4": "Ankle",
+    "answer": 1
+  },
+  {
+    "question": "What type of substance is 'penicillin' discovered by Alexander Fleming in 1928?",
+    "choice1": "Anti-inflamatory",
+    "choice2": "Antibiotic",
+    "choice3": "Steroid",
+    "choice4": "Antiseptic",
+    "answer": 2
+  },
+  {
+    "question": "In January 2006, Greg Dyke was announced as the Chairman of which London football club?",
+    "choice1": "Millwall",
+    "choice2": "Charlton Athletic",
+    "choice3": "Queens Park Rangers",
+    "choice4": "Brentford",
+    "answer": 4
+  },
+  {
+    "question": "Nick Bollettieri is a well-known coach in which sport?",
+    "choice1": "Football",
+    "choice2": "Rubgy Union",
+    "choice3": "Tennis",
+    "choice4": "Athletics",
+    "answer": 3
+  },
+  {
+    "question": "Marcus Gronholm and Petter Solberg have both been World Champions in which sport?",
+    "choice1": "Rallying",
+    "choice2": "Darts",
+    "choice3": "Moto GP",
+    "choice4": "Snooker",
+    "answer": 1
+  },
+  {
+    "question": "Which football manager was arrested and cautioned in May 2007 for obstructing police as they tried to take his Yorkshire Terrier into quarantine?",
+    "choice1": "Martin Jol",
+    "choice2": "Jose Mourinho",
+    "choice3": "Arsene Wenger",
+    "choice4": "Rafael Benitez",
+    "answer": 2
+  },
+  {
+    "question": "Which English rugby union player was nicknamed the 'Prince of Centres'?",
+    "choice1": "Rory Underwood",
+    "choice2": "Will Carling",
+    "choice3": "Rob Andrew",
+    "choice4": "Jeremy Guscott",
+    "answer": 4
+  },
+  {
+    "question": "What is the diameter of a standard ice hockey puck?",
+    "choice1": "1 inch",
+    "choice2": "2 inches",
+    "choice3": "3 inches",
+    "choice4": "4 inches",
+    "answer": 3
+  },
+  {
+    "question": "The 3 Italian Abbagnale brothersd have won numerous Olympic medals in which sport?",
+    "choice1": "Triathlon",
+    "choice2": "Rowing",
+    "choice3": "Swimming",
+    "choice4": "Cycling",
+    "answer": 2
+  },
+  {
+    "question": "Which French word is given to the main group of cyclists in a race?",
+    "choice1": "Groupe",
+    "choice2": "Maillot",
+    "choice3": "Flamme",
+    "choice4": "Peloton",
+    "answer": 4
+  },
+  {
+    "question": "Since 2011, Brendan O'Carroll has played the title character in what sitcom?",
+    "choice1": "Mrs. Brown's Babes",
+    "choice2": "Mrs. Brown's Boys",
+    "choice3": "Mrs. Brown's Balloons",
+    "choice4": "Mrs. Brown's Biscuits",
+    "answer": 2
+  },
+  {
+    "question": "Which of these is a breed of spaniel?",
+    "choice1": "King James",
+    "choice2": "King John",
+    "choice3": "King Charles",
+    "choice4": "King George",
+    "answer": 3
+  },
+  {
+    "question": "According to Robert Burns, which food is the 'Great chieftain o' the pudding-race'?",
+    "choice1": "Teacake",
+    "choice2": "Haggis",
+    "choice3": "Bacon Roll",
+    "choice4": "Sticky Toffee Pudding",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the character played by Daisy Ridley in 'Star Wars: The Rise of Skywalker'?",
+    "choice1": "Doh",
+    "choice2": "Rey",
+    "choice3": "Mee",
+    "choice4": "Farr",
+    "answer": 2
+  },
+  {
+    "question": "Which of these is the title of a famous artwork by Tracey Emin?",
+    "choice1": "Our Settee",
+    "choice2": "Your Bench",
+    "choice3": "Her Desk",
+    "choice4": "My Bed",
+    "answer": 4
+  },
+  {
+    "question": "The annual half-marathon 'The Great North Run' starts in which UK city?",
+    "choice1": "Newcastle",
+    "choice2": "Sheffield",
+    "choice3": "Liverpool",
+    "choice4": "Leeds",
+    "answer": 1
+  },
+  {
+    "question": "For what reason did Professor Robert Kelly gain internet fame in 2017?",
+    "choice1": "Mistaken identity in the news",
+    "choice2": "Chasing after his dog",
+    "choice3": "Kids gatecrashed his interview",
+    "choice4": "Trying to catch a bat",
+    "answer": 3
+  },
+  {
+    "question": "A character named Ralph is elected leader of a group of boys at the beginning of which book?",
+    "choice1": "Lord Of The Flies",
+    "choice2": "A Clockwork Orange",
+    "choice3": "The Jungle Book",
+    "choice4": "Brave New World",
+    "answer": 1
+  },
+  {
+    "question": "In Housaki's print 'The Great Wave', which mountain is depicted in the background?",
+    "choice1": "Mount Emei",
+    "choice2": "Mount Kailash",
+    "choice3": "Mount Fuji",
+    "choice4": "Mount Sinai",
+    "answer": 3
+  },
+  {
+    "question": "According to the Highway Code, what shape is the standard sign giving the order to 'Stop'?",
+    "choice1": "Pentagon",
+    "choice2": "Hexagon",
+    "choice3": "Heptagon",
+    "choice4": "Octagon",
+    "answer": 4
+  },
+  {
+    "question": "The national flag of which of these countries does not feature three horizontal stripes?",
+    "choice1": "Netherlands",
+    "choice2": "Romania",
+    "choice3": "Hungary",
+    "choice4": "Germany",
+    "answer": 2
+  },
+  {
+    "question": "In mythology, which creature sprang from the blood of Medusa?",
+    "choice1": "Pegasus",
+    "choice2": "Griffin",
+    "choice3": "Hydra",
+    "choice4": "Centaur",
+    "answer": 1
+  },
+  {
+    "question": "Which of these men was the first to win two Academy Awards for Best Director?",
+    "choice1": "Stephen Spielberg",
+    "choice2": "Clint Eastwood",
+    "choice3": "Oliver Stone",
+    "choice4": "Francis Ford Coppola",
+    "answer": 3
+  },
+  {
+    "question": "Who wrote the opera 'The Thieving Magpie'?",
+    "choice1": "Rosini",
+    "choice2": "Verdi",
+    "choice3": "Donizetti",
+    "choice4": "Puccini",
+    "answer": 1
+  },
+  {
+    "question": "The word 'batrachian' describes which animals?",
+    "choice1": "Monkeys and Apes",
+    "choice2": "Rats and Mice",
+    "choice3": "Frogs and Toads",
+    "choice4": "Hares and Rabbits",
+    "answer": 3
+  },
+  {
+    "question": "In 2020, the UK political journalist, Isabel Hardman, published a book entitled what?",
+    "choice1": "The Natural Health Service",
+    "choice2": "The Notional Health Service",
+    "choice3": "The Nocturnal Health Service",
+    "choice4": "The National Health Service",
+    "answer": 1
+  },
+  {
+    "question": "Which Disney character famously leaves a glass slipper behind at a royal ball?",
+    "choice1": "Pocahontes",
+    "choice2": "Sleeping Beauty",
+    "choice3": "Cindarella",
+    "choice4": "Elsa",
+    "answer": 3
+  },
+  {
+    "question": "What is the name given to the revolving belt machinery in an airport that delivers checked luggage from the plane to baggage reclaim?",
+    "choice1": "Hangar",
+    "choice2": "Terminal",
+    "choice3": "Concourse",
+    "choice4": "Carousel",
+    "answer": 4
+  },
+  {
+    "question": "Which of these brands was chiefly associated with the manufacture of household locks?",
+    "choice1": "Philips",
+    "choice2": "Flymo",
+    "choice3": "Chubb",
+    "choice4": "Ronseal",
+    "answer": 3
+  },
+  {
+    "question": "The hammer and sickle is one of the most recognisable symbols of which political ideology?",
+    "choice1": "Republicanism",
+    "choice2": "Communism",
+    "choice3": "Conservatism",
+    "choice4": "Liberalism",
+    "answer": 2
+  },
+  {
+    "question": "Which toys have been marketed with the phrase 'robots in disguise'?",
+    "choice1": "Bratz Dolls",
+    "choice2": "Sylvanian Families",
+    "choice3": "Hatchimals",
+    "choice4": "Transformers",
+    "answer": 4
+  },
+  {
+    "question": "What does the word 'loquacious' mean?",
+    "choice1": "Angry",
+    "choice2": "Chatty",
+    "choice3": "Beautiful",
+    "choice4": "Shy",
+    "answer": 2
+  },
+  {
+    "question": "Obstetrics is a branch of medicine particularly concerned with what?",
+    "choice1": "Childbirth",
+    "choice2": "Broken Bones",
+    "choice3": "Heart Conditions",
+    "choice4": "Old Age",
+    "answer": 1
+  },
+  {
+    "question": "In Doctor Who, what was the signature look of the fourth Doctor, as portrayed by Tom Baker?",
+    "choice1": "Bow-Tie, Braces and Tweed Jacket",
+    "choice2": "Wide-Brimmed Hat and Extra Long Scarf",
+    "choice3": "Pinstripe Suit and Trainers",
+    "choice4": "Cape, Velvet Jacket and Frilly Shirt",
+    "answer": 2
+  },
+  {
+    "question": "Which of these religious observances lasts for the shortest period of time during the calendar year?",
+    "choice1": "Ramadan",
+    "choice2": "Diwali",
+    "choice3": "Lent",
+    "choice4": "Hanukkah",
+    "answer": 2
+  },
+  {
+    "question": "At the closest point, which island group is only 50 miles south-east of the coast of Florida?",
+    "choice1": "Bahamas",
+    "choice2": "US Virgin Islands",
+    "choice3": "Turks and Caicos Islands",
+    "choice4": "Bermuda",
+    "answer": 1
+  },
+  {
+    "question": "Construction of which of these famous landmarks was completed first?",
+    "choice1": "Empire State Building",
+    "choice2": "Royal Albert Hall",
+    "choice3": "Eiffel Tower",
+    "choice4": "Big Ben Clock Tower",
+    "answer": 4
+  },
+  {
+    "question": "Which of these cetaceans is classified as a 'toothed whale'?",
+    "choice1": "Gray Whale",
+    "choice2": "Minke Whale",
+    "choice3": "Sperm Whale",
+    "choice4": "Humpback Whale",
+    "answer": 3
+  },
+  {
+    "question": "Who is the only British politician to have held all four 'Great Offices of State' at some point during their career?",
+    "choice1": "David Lloyd George",
+    "choice2": "Harold Wilson",
+    "choice3": "John Major",
+    "choice4": "James Callaghan",
+    "answer": 4
+  },
+  {
+    "question": "In 1718, which pirate died in battle off the coast of what is now North Carolina?",
+    "choice1": "Calico Jack",
+    "choice2": "Blackbeard",
+    "choice3": "Bartholomew Roberts",
+    "choice4": "Captain Kidd",
+    "answer": 2
+  },
+  {
+    "question": "A spork is a utensil that typically combines a fork with which other item?",
+    "choice1": "Colander",
+    "choice2": "Whisk",
+    "choice3": "Spoon",
+    "choice4": "Corkscrew",
+    "answer": 3
+  },
+  {
+    "question": "Which of these is regarded as a national symbol of Canada?",
+    "choice1": "Fig Leaf",
+    "choice2": "Fern Leaf",
+    "choice3": "Tea Leaf",
+    "choice4": "Maple Leaf",
+    "answer": 4
+  },
+  {
+    "question": "Someone venting their anger is said to be what?",
+    "choice1": "Venting Their Spleen",
+    "choice2": "Venting Their Liver",
+    "choice3": "Venting Their Intestines",
+    "choice4": "Venting Their Pancreas",
+    "answer": 1
+  },
+  {
+    "question": "The name of which of these types of sausage is derived from that of a German city?",
+    "choice1": "Salami",
+    "choice2": "Cumberland",
+    "choice3": "Chorizo",
+    "choice4": "Frankfurter",
+    "answer": 4
+  },
+  {
+    "question": "In the novel 'The Lord Of The Rings', Frodo, Sam and Bilbo come from which region of Middle Earth?",
+    "choice1": "The Green",
+    "choice2": "The Borough",
+    "choice3": "The Shire",
+    "choice4": "The City",
+    "answer": 3
+  },
+  {
+    "question": "Which county cricket club play their home matches at the Oval?",
+    "choice1": "Middlesex",
+    "choice2": "Surrey",
+    "choice3": "Essex",
+    "choice4": "Hampshire",
+    "answer": 2
+  },
+  {
+    "question": "The liqueur creme de cassis is made from which fruit?",
+    "choice1": "Apples",
+    "choice2": "Pears",
+    "choice3": "Blackcurrants",
+    "choice4": "Gooseberries",
+    "answer": 3
+  },
+  {
+    "question": "The National Health Service was founded in which decade?",
+    "choice1": "1920s",
+    "choice2": "1930s",
+    "choice3": "1940s",
+    "choice4": "1950s",
+    "answer": 3
+  },
+  {
+    "question": "'Escape or Die Frying' is a tagline for which film'?",
+    "choice1": "Chicken Run",
+    "choice2": "Ratatouille",
+    "choice3": "Free Willy",
+    "choice4": "Babe",
+    "answer": 1
+  },
+  {
+    "question": "The words 'Royal Dutch' appear in the full name of which company?",
+    "choice1": "Esso",
+    "choice2": "Shell",
+    "choice3": "BP",
+    "choice4": "Texaco",
+    "answer": 2
+  },
+  {
+    "question": "What is the 'Temeraire', the subject of an 1839 painting by J.M.W. Turner?",
+    "choice1": "A Gun Ship",
+    "choice2": "A Harbour",
+    "choice3": "A Bridge",
+    "choice4": "A Steam Train",
+    "answer": 1
+  },
+  {
+    "question": "The ruins of Urquhart Castle stand on the banks of which loch?",
+    "choice1": "Loch Lomond",
+    "choice2": "Loch Ness",
+    "choice3": "Loch Broom",
+    "choice4": "Loch Maree",
+    "answer": 2
+  },
+  {
+    "question": "'The Scarlet Letter' is a novel by which American writer?",
+    "choice1": "Herman Melville",
+    "choice2": "Nathaniel Hawthorne",
+    "choice3": "Jack London",
+    "choice4": "John Steinbeck",
+    "answer": 2
+  },
+  {
+    "question": "An insect's hard outer skeleton is made mainly of what substance?",
+    "choice1": "Chitin",
+    "choice2": "Keratin",
+    "choice3": "Glycogen",
+    "choice4": "Lignin",
+    "answer": 1
+  },
+  {
+    "question": "Which of these is the southernmost state capital on mainland USA?",
+    "choice1": "Baton Rouge",
+    "choice2": "Tallahasse",
+    "choice3": "Little Rock",
+    "choice4": "Phoenix",
+    "answer": 2
+  },
+  {
+    "question": "Which of these is most likely to be used by an archer?",
+    "choice1": "Bitterbow",
+    "choice2": "Crossbow",
+    "choice3": "Furiousbow",
+    "choice4": "Iratebow",
+    "answer": 2
+  },
+  {
+    "question": "A controversial situation which is awkward is often referred to as what?",
+    "choice1": "Hot Leek",
+    "choice2": "Hot Potato",
+    "choice3": "Hot Onion",
+    "choice4": "Hot Tomato",
+    "answer": 2
+  },
+  {
+    "question": "In 1987, Whitney Houston topped the UK singles chart with which song?",
+    "choice1": "Saving All My Love For You",
+    "choice2": "I Wanna Dance With Somebody",
+    "choice3": "One Moment In Time",
+    "choice4": "I Will Always Love You",
+    "answer": 2
+  },
+  {
+    "question": "Something that gives the plot or outcome away in a TV show is called...?",
+    "choice1": "Fender",
+    "choice2": "Splitter",
+    "choice3": "Muffler",
+    "choice4": "Spoiler",
+    "answer": 3
+  },
+  {
+    "question": "What colour is the head of an adult male mallard?",
+    "choice1": "Brown",
+    "choice2": "Red",
+    "choice3": "Black",
+    "choice4": "Green",
+    "answer": 4
+  },
+  {
+    "question": "In the 'Transformers' film franchise, who is the leader of the Deceptions?",
+    "choice1": "Megaphone",
+    "choice2": "Megabyte",
+    "choice3": "Megatron",
+    "choice4": "Megabus",
+    "answer": 3
+  },
+  {
+    "question": "Which is the only nation to have reached the Rugby Union World Cup Final never to have won the trophy?",
+    "choice1": "France",
+    "choice2": "Ireland",
+    "choice3": "Argentina",
+    "choice4": "Wales",
+    "answer": 1
+  },
+  {
+    "question": "Which of these words can be typed on a single row of a standard UK 'QWERTY' keyboard?",
+    "choice1": "Cheese",
+    "choice2": "Pork",
+    "choice3": "Salad",
+    "choice4": "Lager",
+    "answer": 3
+  },
+  {
+    "question": "Which term means a dry wind from North Africa, that picks up moisture crossing The Mediterranean?",
+    "choice1": "Mistral",
+    "choice2": "Sargasso",
+    "choice3": "Pampero",
+    "choice4": "Sirocco",
+    "answer": 4
+  },
+  {
+    "question": "Which of these people has not been played on film or television by Benedict Cumberbatch?",
+    "choice1": "Dominic Cummings",
+    "choice2": "Julian Assange",
+    "choice3": "Alan Turing",
+    "choice4": "Tony Blair",
+    "answer": 4
+  },
+  {
+    "question": "In the bible, which land is said to be 'east of Eden'?",
+    "choice1": "Nineveh",
+    "choice2": "Nod",
+    "choice3": "Nazareth",
+    "choice4": "Nimrud",
+    "answer": 2
+  },
+  {
+    "question": "Which of these TV programmes first aired in the 1970s?",
+    "choice1": "Til Death Us Do Part",
+    "choice2": "Mastermind",
+    "choice3": "Dad's Army",
+    "choice4": "Doctor Who",
+    "answer": 2
+  },
+  {
+    "question": "The name of which European capital city means 'Bay of Smokes' in its native language?",
+    "choice1": "Copenhagen",
+    "choice2": "Amsterdam",
+    "choice3": "Reykjavik",
+    "choice4": "Vilnius",
+    "answer": 3
+  },
+  {
+    "question": "Which is the only monarch that was both born and died at Buckingham Palace?",
+    "choice1": "Victoria",
+    "choice2": "George V",
+    "choice3": "Edward VII",
+    "choice4": "William IV",
+    "answer": 3
+  },
+  {
+    "question": "Who was the inaugural winner of the FA Premier League Player of the Month award in August 1994?",
+    "choice1": "Jurgen Klinsmann",
+    "choice2": "Rob Lee",
+    "choice3": "Paul Ince",
+    "choice4": "Alan Shearer",
+    "answer": 1
+  },
+  {
+    "question": "Which king was married to Eleanor of Aquitaine?",
+    "choice1": "Henry I",
+    "choice2": "Henry II",
+    "choice3": "Richard I",
+    "choice4": "Henry V",
+    "answer": 2
+  },
+  {
+    "question": "Oberon is the satellite of which planet?",
+    "choice1": "Mercury",
+    "choice2": "Neptune",
+    "choice3": "Uranus",
+    "choice4": "Venus",
+    "answer": 3
+  },
+  {
+    "question": "Tomas Masaryk was the first president of which country?",
+    "choice1": "Poland",
+    "choice2": "Yugoslavia",
+    "choice3": "Hungary",
+    "choice4": "Czechoslovakia",
+    "answer": 4
+  },
+  {
+    "question": "If you planted the seeds of 'Quercus Robur', what would grow?",
+    "choice1": "Trees",
+    "choice2": "Flowers",
+    "choice3": "Vegetables",
+    "choice4": "Grain",
+    "answer": 1
+  },
+  {
+    "question": "A number one followed by one hundred zeros is known by what name?",
+    "choice1": "Googol",
+    "choice2": "Megtron",
+    "choice3": "Gigabit",
+    "choice4": "Nanomole",
+    "answer": 1
+  },
+  {
+    "question": "Which scientific unit is named after an Italian nobleman?",
+    "choice1": "Pascal",
+    "choice2": "Ohm",
+    "choice3": "Volt",
+    "choice4": "Hertz",
+    "answer": 3
+  },
+  {
+    "question": "What was the occupation of the composer Borodin?",
+    "choice1": "Naval Captain",
+    "choice2": "Chemist",
+    "choice3": "Lawyer",
+    "choice4": "Chef",
+    "answer": 2
+  },
+  {
+    "question": "Which of these is a butterfly, not a moth",
+    "choice1": "Mother Shipton",
+    "choice2": "Red Underwing",
+    "choice3": "Burnished Brass",
+    "choice4": "Speckled Wood",
+    "answer": 4
+  },
+  {
+    "question": "Who was the first man to travel into space twice?",
+    "choice1": "Vladimir Titov",
+    "choice2": "Michael Collins",
+    "choice3": "Gus Grissom",
+    "choice4": "Yuri Gagarin",
+    "answer": 3
+  },
+  {
+    "question": "Which county cricket team is based at Chester-Le-Street?",
+    "choice1": "Warwickshire",
+    "choice2": "Durham",
+    "choice3": "Northamptonshire",
+    "choice4": "Leicestershire",
+    "answer": 2
+  },
+  {
+    "question": "In what year was the first iPhone released?",
+    "choice1": "2005",
+    "choice2": "2006",
+    "choice3": "2007",
+    "choice4": "2008",
+    "answer": 3
+  },
+  {
+    "question": "Which is the smallest country in the world, by area?",
+    "choice1": "San Marino",
+    "choice2": "Monaco",
+    "choice3": "Nauru",
+    "choice4": "Vatican City",
+    "answer": 4
+  },
+  {
+    "question": "In 1912, which German meteorologist controversially proposed the theory of 'continental drift'?",
+    "choice1": "Alexander von Humboldt",
+    "choice2": "Abraham Ortelius",
+    "choice3": "Alfred Wegener",
+    "choice4": "Eduard Suess",
+    "answer": 3
+  }
+]

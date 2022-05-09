@@ -10,4 +10,4 @@ Clone the repo: `git clone https://github.com/Paul72187/Quizzical.git`
 
 # Start Quizzical App
 
-Open the index.html file and right click and then click on 'Open with Live Server'. You will then be given your selection of 10 questions to test your general knowledge!
+Open the index.html file and then right click. Then click on 'Open with Live Server'. You will then be given your selection of 10 questions to test your general knowledge!

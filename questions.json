@@ -1998,5 +1998,13 @@
     "choice3": "Alfred Wegener",
     "choice4": "Eduard Suess",
     "answer": 3
-  }
+  },
+  {
+    "question": "In tennis, who became the 27th world number one in the history of the ATP world rankings in February 2022?"
+    "choice1": "Alexander Zverev",
+    "choice2": "Daniil Medvedev",
+    "choice3": "Stefanos Tsitsipas",
+    "choice4": "Carlos Alcaraz",
+    "answer": 2
+  },
 ]

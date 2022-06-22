@@ -2007,4 +2007,12 @@
     "choice4": "Carlos Alcaraz",
     "answer": 2
   },
+  {
+    "question": "The guarani is the unit of currency in which South American country?"
+    "choice1": "Paraguay",
+    "choice2": "Uruguay",
+    "choice3": "Bolivia",
+    "choice4": "Venezuela",
+    "answer": 1
+  }
 ]

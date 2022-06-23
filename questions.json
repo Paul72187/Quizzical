@@ -2014,7 +2014,7 @@
     "choice3": "Bolivia",
     "choice4": "Venezuela",
     "answer": 1
-  }
+  },
   {
     "question": "Gallo pinto - a breakfast of rice, black beans, scrambled eggs and a small tortilla originates from which country?"
     "choice1": "Cuba",
@@ -2022,5 +2022,13 @@
     "choice3": "Panama",
     "choice4": "El Salvador",
     "answer": 1
+  },
+  {
+    "question": "Who was French prime minister between June 1997 and May 2002?"
+    "choice1": "Alain Juppe",
+    "choice2": "Lionel Jospin",
+    "choice3": "Jean-Pierre Raffarin",
+    "choice4": "Dominique de Villepin",
+    "answer": 2
   }
 ]

@@ -2039,4 +2039,12 @@
     "choice4": "Pi",
     "answer": 4
   },
+  {
+    "question": "Which author published the book 'The Thursday Murder Club' in 2021?"
+    "choice1": "Alexander Armstrong",
+    "choice2": "Ian Hislop",
+    "choice3": "Richard Osman",
+    "choice4": "Paul Merton",
+    answer: 3
+  }
 ]

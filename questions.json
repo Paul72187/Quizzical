@@ -2030,5 +2030,13 @@
     "choice3": "Jean-Pierre Raffarin",
     "choice4": "Dominique de Villepin",
     "answer": 2
-  }
+  },
+  {
+    "question": "Which mathematical concept did Kate Bush sing about on her 2005 album 'Aerial'?"
+    "choice1": "Quadratic equations",
+    "choice2": "Trigonometry",
+    "choice3": "Pythagoras theorem",
+    "choice4": "Pi",
+    "answer": 4
+  },
 ]

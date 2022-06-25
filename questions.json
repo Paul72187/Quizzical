@@ -2000,7 +2000,7 @@
     "answer": 3
   },
   {
-    "question": "In tennis, who became the 27th world number one in the history of the ATP world rankings in February 2022?"
+    "question": "In tennis, who became the 27th world number one in the history of the ATP world rankings in February 2022?",
     "choice1": "Alexander Zverev",
     "choice2": "Daniil Medvedev",
     "choice3": "Stefanos Tsitsipas",
@@ -2008,7 +2008,7 @@
     "answer": 2
   },
   {
-    "question": "The guarani is the unit of currency in which South American country?"
+    "question": "The guarani is the unit of currency in which South American country?",
     "choice1": "Paraguay",
     "choice2": "Uruguay",
     "choice3": "Bolivia",
@@ -2016,7 +2016,7 @@
     "answer": 1
   },
   {
-    "question": "Gallo pinto - a breakfast of rice, black beans, scrambled eggs and a small tortilla originates from which country?"
+    "question": "Gallo pinto - a breakfast of rice, black beans, scrambled eggs and a small tortilla originates from which country?",
     "choice1": "Cuba",
     "choice2": "Costa Rica",
     "choice3": "Panama",
@@ -2024,7 +2024,7 @@
     "answer": 1
   },
   {
-    "question": "Who was French prime minister between June 1997 and May 2002?"
+    "question": "Who was French prime minister between June 1997 and May 2002?",
     "choice1": "Alain Juppe",
     "choice2": "Lionel Jospin",
     "choice3": "Jean-Pierre Raffarin",
@@ -2032,7 +2032,7 @@
     "answer": 2
   },
   {
-    "question": "Which mathematical concept did Kate Bush sing about on her 2005 album 'Aerial'?"
+    "question": "Which mathematical concept did Kate Bush sing about on her 2005 album 'Aerial'?",
     "choice1": "Quadratic equations",
     "choice2": "Trigonometry",
     "choice3": "Pythagoras theorem",
@@ -2040,7 +2040,7 @@
     "answer": 4
   },
   {
-    "question": "Which author published the book 'The Thursday Murder Club' in 2021?"
+    "question": "Which author published the book 'The Thursday Murder Club' in 2021?",
     "choice1": "Alexander Armstrong",
     "choice2": "Ian Hislop",
     "choice3": "Richard Osman",
@@ -2048,11 +2048,11 @@
     "answer": 3
   },
   {
-    "question": "On which date did Slovenia officially declare independece from the former Yugoslavia?"
+    "question": "On which date did Slovenia officially declare independece from the former Yugoslavia?",
     "choice1": "24th June 1990",
     "choice2": "25th June 1991",
     "choice3": "26th June 1992",
     "choice4": "27th June 1993",
     "answer": 2
   }
-]    
+]

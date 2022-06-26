@@ -2054,5 +2054,13 @@
     "choice3": "26th June 1992",
     "choice4": "27th June 1993",
     "answer": 2
+  },
+  {
+    "question": "How many sides does a dodecahedron have?",
+    "choice1": 10,
+    "choice2": 12,
+    "choice3": 20,
+    "choice4": 22,
+    "answer": 2
   }
 ]

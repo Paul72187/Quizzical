@@ -2057,10 +2057,18 @@
   },
   {
     "question": "How many sides does a dodecahedron have?",
-    "choice1": 10,
-    "choice2": 12,
-    "choice3": 20,
-    "choice4": 22,
+    "choice1": "10",
+    "choice2": "12",
+    "choice3": "20",
+    "choice4": "22",
     "answer": 2
+  },
+  {
+    "question": "Which artist had a debut solo album entitled 'Debut' in 1993?,
+    "choice1": "Gabrielle",
+    "choice2": "Dina Carroll",
+    "choice3": "Heather Small",
+    "choice4": "Bjork",
+    "answer": 4
   }
 ]

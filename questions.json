@@ -2070,5 +2070,13 @@
     "choice3": "Heather Small",
     "choice4": "Bjork",
     "answer": 4
-  }
+  },
+  {
+    "question": "Which was the only year between 1993 and 2000 (inclusive) when Pete Sampras did not win the singles title at Wimbledon?",
+    "choice1": "1995",
+    "choice2": "1996",
+    "choice3": "1997",
+    "choice4": "1998",
+    "answer": 2
+  },
 ]

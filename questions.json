@@ -2086,5 +2086,13 @@
     "choice3": "Parklife",
     "choice4": "Song 2",
     "answer": 3
+  },
+  {
+    "question": "Which former editor of the Independent newspaper is now a presenter on BBC Radio 4's Today programme?",
+    "choice1": "Amol Rajan",
+    "choice2": "Katie Razzall",
+    "choice3": "Nick Robinson",
+    "choice4": "Martha Kearney",
+    "answer": 1
   }
 ]

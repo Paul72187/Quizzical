@@ -2094,5 +2094,13 @@
     "choice3": "Nick Robinson",
     "choice4": "Martha Kearney",
     "answer": 1
-  }
+  },
+  {
+    "question": "Who became deputy leader of the UK Labour Party in April 2020?",
+    "choice1": "Rebecca Long-Bailey",
+    "choice2": "Stella Creasy",
+    "choice3": "Angela Eagle",
+    "choice4": "Angela Rayner",
+    "answer": 4
+  },
 ]

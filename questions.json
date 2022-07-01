@@ -2137,4 +2137,10 @@
   },
   {
     "question": "Who was the first player to score a glut (5 goals) in a Premier League game?",
+    "choice1": "Teddy Sheringham",
+    "choice2": "Robbie Fowler",
+    "choice3": "Alan Shearer",
+    "choice4": "Andrew Cole",
+    "answer": 4
+  }
 ]

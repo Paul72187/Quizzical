@@ -2143,4 +2143,12 @@
     "choice4": "Andrew Cole",
     "answer": 4
   }
+  {
+    "question": "As of 2022, who has taken the most cricket test wickets for England?",
+    "choice1": "Ian Botham",
+    "choice2": "Stuart Broad",
+    "choice3": "Bob Willis",
+    "choice4": "James Anderson",
+    "answer": 4
+  },
 ]

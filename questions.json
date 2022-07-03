@@ -2167,4 +2167,12 @@
     "choice4": "Belgium",
     "answer": 4
   },
+  {
+    "question": "'The Starry Night' by Vincent Van Gogh is an example of what art movement?",
+    "choice1": "Pointilism",
+    "choice2": "Post-Impressionism",
+    "choice3": "Cubism",
+    "choice4": "Abstract Impressionism",
+    "answer": 2
+  }
 ]

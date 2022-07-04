@@ -2183,4 +2183,12 @@
     "choice4": "US Open",
     "answer": 1
   },
+  {
+    "question": "Which fruit has its seeds on the outside?",
+    "choice1": "Cherry",
+    "choice2": "Strawberry",
+    "choice3": "Gooseberry",
+    "choice4": "Raspberry",
+    "answer": 2
+  }
 ]

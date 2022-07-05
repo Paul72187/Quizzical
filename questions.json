@@ -2246,5 +2246,13 @@
     "choice3": "Taxi",
     "choice4": "Bus",
     "answer": 2
+  },
+  {
+    "question": "By what name is the medical condition 'pink eye' also known?",
+    "choice1": "Gingivitis",
+    "choice2": "Conjunctivitis",
+    "choice3": "Tinnitus",
+    "choice4": "Otosclerosis",
+    "answer": 2
   }
 ]

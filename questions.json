@@ -2199,4 +2199,12 @@
     "choice4": "Alfred Lord Tennyson",
     "answer" 1
   },
+  {
+    "question": "Which of these tennis players is the only one not to have won the Australian Open, the French Open and the US Open?",
+    "choice1": "Ivan Lendl",
+    "choice2": "Mats Wilander",
+    "choice3": "Jim Courier",
+    "choice4": "Stan Wawrinka",
+    "answer": 3
+  }
 ]

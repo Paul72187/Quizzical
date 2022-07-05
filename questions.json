@@ -2262,5 +2262,13 @@
     "choice3": "Marco Polo",
     "choice4": "William of Rubruck",
     "answer": 3
+  },
+  {
+    "question": "In the 1961 film 'The Guns of Navarone', the guns in the title are located on an island in which sea?",
+    "choice1": "South China Sea",
+    "choice2": "Agean Sea",
+    "choice3": "Black Sea",
+    "choice4": "Red Sea",
+    "answer": 2
   }
 ]

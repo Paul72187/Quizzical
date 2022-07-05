@@ -2295,4 +2295,21 @@
     "choice4": "Ketchup",
     "answer": 3
   },
+  {
+    "question": "Which is the capital city of Myanmar?",
+    "choice1": "Naypyidaw",
+    "choice2": "Vientiane",
+    "choice3": "Yangon",
+    "choice4": "Thimphu",
+    "answer": 1
+  },
+  {
+    "question": "Which of these comedians was a co-founder of the charity 'Comic Relief'?",
+    "choice1": "Adrian Edmonson",
+    "choice2": "Stephen Fry",
+    "choice3": "Hugh Laurie",
+    "choice4": "Lenny Henry",
+    "answer": 4
+  }
+   
 ]

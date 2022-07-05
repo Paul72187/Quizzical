@@ -2270,5 +2270,21 @@
     "choice3": "Black Sea",
     "choice4": "Red Sea",
     "answer": 2
-  }
+  },
+  {
+    "question": "What killed the Russian Emperor Alexander II?",
+    "choice1": "Gun",
+    "choice2": "Bomb",
+    "choice3": "Noose",
+    "choice4": "Arrow",
+    "answer": 2
+  },
+  {
+    "question": "Which of these jobs did Charles de Gaulle do before becoming president of France?",
+    "choice1": "Farmer",
+    "choice2": "Professor",
+    "choice3": "General",
+    "choice4": "Pilot",
+    "answer": 3
+  },
 ]

@@ -2230,5 +2230,13 @@
     "choice3": "Herefordshire",
     "choice4": "Somerset",
     "answer": 4
+  },
+  {
+    "question": "Which EU capital city is furthest south?",
+    "choice1": "Lisbon",
+    "choice2": "Athens",
+    "choice3": "Valletta",
+    "choice4": "Nicosia",
+    "answer": 4
   }
 ]

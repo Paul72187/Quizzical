@@ -2287,4 +2287,12 @@
     "choice4": "Pilot",
     "answer": 3
   },
+  {
+    "question": "Which condiment is made from a plant in the cabbage family?",
+    "choice1": "Vinegar",
+    "choice2": "Black Pepper",
+    "choice3": "Mustard",
+    "choice4": "Ketchup",
+    "answer": 3
+  },
 ]

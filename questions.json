@@ -2254,5 +2254,13 @@
     "choice3": "Tinnitus",
     "choice4": "Otosclerosis",
     "answer": 2
+  },
+  {
+    "question": "Around 1298 who dictated his life story to man called Rusted Cello while they were both imprisoned in Genoa?",
+    "choice1": "Giuseppe Garibaldi",
+    "choide2": "Christopher Columbus",
+    "choice3": "Marco Polo",
+    "choice4": "William of Rubruck",
+    "answer": 3
   }
 ]

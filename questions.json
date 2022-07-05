@@ -2190,5 +2190,13 @@
     "choice3": "Gooseberry",
     "choice4": "Raspberry",
     "answer": 2
-  }
+  },
+  {
+    "question": "Which poet was Ada Lovelace's father?",
+    "choice1": "Lord Byron",
+    "choice2": "John Keats",
+    "choice3": "William Wordsworth",
+    "choice4": "Alfred Lord Tennyson",
+    "answer" 1
+  },
 ]

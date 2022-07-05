@@ -2238,5 +2238,13 @@
     "choice3": "Valletta",
     "choice4": "Nicosia",
     "answer": 4
+  },
+  {
+    "question": "The 2018 action film 'The commuter' starring Liam Neeson takes place mainly on which mode of transport?",
+    "choice1": "Bicycle",
+    "choice2": "Train",
+    "choice3": "Taxi",
+    "choice4": "Bus",
+    "answer": 2
   }
 ]

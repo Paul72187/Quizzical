@@ -2310,6 +2310,14 @@
     "choice3": "Hugh Laurie",
     "choice4": "Lenny Henry",
     "answer": 4
-  }
+  },
+  {
+    "question": "In which decade of the 20th century did the Spanish artist Pablo Picasso die?",
+    "choice1": "1940s",
+    "choice2": "1950s",
+    "choice3": "1960s",
+    "choice4": "1970s",
+    "answer": 4
+  },
    
 ]

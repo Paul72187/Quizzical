@@ -2319,5 +2319,12 @@
     "choice4": "1970s",
     "answer": 4
   },
-   
+  {
+    "question": "The Catskill Mountains are chiefly located in which US state?",
+    "choice1": "California",
+    "choice2": "Ohio",
+    "choice3": "New York",
+    "choice4": "Maine",
+    "answer": 3
+  }
 ]

@@ -2326,5 +2326,13 @@
     "choice3": "New York",
     "choice4": "Maine",
     "answer": 3
-  }
+  },
+  {
+    "question": "The galata bridge spans the Golden Horn and connects the two parts of which city?",
+    "choice1": "Istanbul",
+    "choice2": "Stockholm",
+    "choice3": "Warsaw",
+    "choice4": "Budapest",
+    "answer": 1
+  },
 ]

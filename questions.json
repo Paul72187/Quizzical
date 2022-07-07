@@ -2335,4 +2335,12 @@
     "choice4": "Budapest",
     "answer": 1
   },
+  {
+    "question": "Which herb is used to flavour a Bearnaise sauce?",
+    "choice1": "Tarragon",
+    "choice2": "Rosemary",
+    "choice3": "Basil",
+    "choice4": "Thyme",
+    "answer": 1
+  }
 ]

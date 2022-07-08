@@ -2342,5 +2342,13 @@
     "choice3": "Basil",
     "choice4": "Thyme",
     "answer": 1
-  }
+  },
+  {
+    "question": "In 1768, Captain James Cook set out to explore which ocean?",
+    "choice1": "Pacific Ocean",
+    "choice2": "Atlantic Ocean",
+    "choice3": "Indian Ocean",
+    "choice4": "Arctic Ocean",
+    "answer": 1
+  },
 ]

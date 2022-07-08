@@ -2351,4 +2351,12 @@
     "choice4": "Arctic Ocean",
     "answer": 1
   },
+  {
+    "question": "What is the speed of sound?",
+    "choice1": "120km/h",
+    "choice2": "1,200km/h",
+    "choice3": "400km/h",
+    "choice4": "700km/h",
+    "answer": 2
+  }
 ]

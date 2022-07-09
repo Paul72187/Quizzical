@@ -2358,5 +2358,13 @@
     "choice3": "400km/h",
     "choice4": "700km/h",
     "answer": 2
+  },
+  {
+    "question": "At how many degrees Fahrenheit does water boil?",
+    "choice1": "210"
+    "choice2": "212"
+    "choice3": "214"
+    "choice4": "216"
+    "answer" 2
   }
 ]

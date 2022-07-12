@@ -2400,11 +2400,19 @@
     "answer": 3
   },
   {
-    "question": "Who voiced 'Woody' in the Toy Story films?".
+    "question": "Who voiced 'Woody' in the Toy Story films?",
     "choice1": "Tom Hanks",
     "choice2": "Eddie Murphy",
     "choice3": "Adam Sandler",
     "choice4": "Will Smith",
     "answer": 1
-  }
+  },
+  {
+    "question": "How many cards are there in a standard deck of playing cards without jokers?",
+    "choice1": "48",
+    "choice2": "52",
+    "choice3": "56",
+    "choice4": "60",
+    "answer": 2
+  },
 ]

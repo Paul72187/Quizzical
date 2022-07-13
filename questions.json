@@ -2432,4 +2432,12 @@
     "choice4": "The Philadelphia Project",
     "answer": 3
   },
+  {
+    "question": "Which of these countries did not fight in World War II?",
+    "choice1": "Finland",
+    "choice2": "Greece",
+    "choice3": "Italy",
+    "choice4": "Ireland",
+    "answer": 4
+  }
 ]

@@ -2411,6 +2411,7 @@
     "question": "How many cards are there in a standard deck of playing cards without jokers?",
     "choice1": "48",
     "choice2": "52",
+
     "choice3": "56",
     "choice4": "60",
     "answer": 2
@@ -2422,5 +2423,13 @@
     "choice3": "4",
     "choice4": "5",
     "answer": 3
-  }
+  },
+  {
+    "question": "What was the name of the American effort to build an atomic bomb?",
+    "choice1": "The Baltimore Project",
+    "choice2": "The Chicago Project",
+    "choice3": "The Manhattan Project",
+    "choice4": "The Philadelphia Project",
+    "answer": 3
+  },
 ]

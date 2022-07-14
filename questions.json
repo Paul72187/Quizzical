@@ -2448,4 +2448,12 @@
     "choice4": "Hebrew",
     "answer": 4
   },
+  {
+    "question": "In which subject would you find the 'trolley problem' experiment?",
+    "choice1": "Philosophy",
+    "choice2": "Physics",
+    "choice3": "Psychology",
+    "choice4": "Mathematics",
+    "answer": 1
+  }
 ]

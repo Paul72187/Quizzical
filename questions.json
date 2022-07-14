@@ -2439,5 +2439,13 @@
     "choice3": "Italy",
     "choice4": "Ireland",
     "answer": 4
-  }
+  },
+  {
+    "question": "In which alphabet is 'aleph' the first letter?",
+    "choice1": "Greek",
+    "choice2": "Bulgarian",
+    "choice3": "Cyrillic",
+    "choice4": "Hebrew",
+    "answer": 4
+  },
 ]

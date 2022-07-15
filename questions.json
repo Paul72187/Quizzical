@@ -2464,4 +2464,12 @@
     "choice4": "Henry VIII",
     "answer": 1
   },
+  {
+    "question": "Galena is an ore of which metal?",
+    "choice1": "Copper",
+    "choice2": "Lead",
+    "choice3": "Zinc",
+    "choice4": "Iron",
+    "answer": 2
+  }
 ]

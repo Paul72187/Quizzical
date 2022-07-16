@@ -2479,5 +2479,13 @@
     "choice3": "A type of mortice lock",
     "choice4": "A species of salamander",
     "answer": 4
+  },
+  {
+    "question": "In which opera did Maria Callas make her last appearance at Covent Garden?",
+    "choice1": "Carmen",
+    "choice2": "Tosca",
+    "choice3": "Madame Butterfly",
+    "choice4": "La Boheme",
+    "answer": 2
   }
 ]

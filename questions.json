@@ -2496,4 +2496,12 @@
     "choice4": "England",
     "answer": 3
   },
+  {
+    "question": "What was Sir Edmund Hillary's official occupuation?",
+    "choice1": "Beekeeper",
+    "choice2": "Bookkeeper",
+    "choice3": "Accountant",
+    "choice4": "Zoo Keeper",
+    "answer": 1
+  }
 ]

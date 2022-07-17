@@ -2487,5 +2487,13 @@
     "choice3": "Madame Butterfly",
     "choice4": "La Boheme",
     "answer": 2
-  }
+  },
+  {
+    "question": "Which of these countries is closest to the Isle of Man?",
+    "choice1": "Northern Ireland",
+    "choice2": "Wales",
+    "choice3": "Scotland",
+    "choice4": "England",
+    "answer": 3
+  },
 ]

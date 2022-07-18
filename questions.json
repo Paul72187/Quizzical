@@ -2511,5 +2511,13 @@
     "choice3": "Bird Nests",
     "choice4": "Caves",
     "answer": 3
+  },
+  {
+    "question": "Hypermetropic people are what?",
+    "choice1": "Obese",
+    "choice2": "Underfed",
+    "choice3": "Moody",
+    "choice4": "Far sighted",
+    "answer": 4
   }
 ]

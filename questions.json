@@ -2519,5 +2519,13 @@
     "choice3": "Moody",
     "choice4": "Far sighted",
     "answer": 4
+  },
+  {
+    "question": "Which of Beethoven's symphonies is known as 'The Choral'?",
+    "choice1": "Third",
+    "choice2": "Fifth",
+    "choice3": "Seventh",
+    "choice4": "Ninth",
+    "answer": 4
   }
 ]

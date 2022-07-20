@@ -2535,5 +2535,13 @@
     "choice3": "Hull",
     "choice4": "Bradford",
     "answer": 1
-  }
+  },
+  {
+    "question": "Which DJ announced his departure from his afternoon show on BBC Radio 2 in 2022?",
+    "choice1": "Ken Bruce",
+    "choice2": "Jeremy Vine",
+    "choice3": "Scott Mills",
+    "choice4": "Steve Wright",
+    "answer": 3
+  },
 ]

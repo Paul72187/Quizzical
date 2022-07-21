@@ -2551,5 +2551,13 @@
     "choice3": "Adele - 21",
     "choice4": "Beatles - Sgt Pepper's Lonely Hearts Club Band",
     "answer": 2
-  }
+  },
+  {
+    "question": "Which field of the arts is Enrico Caruso associated with?",
+    "choice1": "Opera",
+    "choice2": "Sculpture",
+    "choice3": "Painter",
+    "choice4": "Poet",
+    "answer": 1
+  },
 ]

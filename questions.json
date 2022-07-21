@@ -2560,4 +2560,12 @@
     "choice4": "Poet",
     "answer": 1
   },
+  {
+    "question": "Which animal is said to 'farrow' when it gives birth?",
+    "choice1": "Goat",
+    "choice2": "Pig",
+    "choice3": "Horse",
+    "choice4": "Sheep",
+    "answer": 2
+  }
 ]

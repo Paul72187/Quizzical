@@ -2567,5 +2567,13 @@
     "choice3": "Horse",
     "choice4": "Sheep",
     "answer": 2
+  },
+  {
+    "question": "Beattie Edmondson is the daughter of which famous UK comedian?",
+    "choice1": "Dawn French",
+    "choice2": "Jo Brand",
+    "choice3": "Jo Caulfield",
+    "choice4": "Jennifer Saunders",
+    "answer": 4
   }
 ]

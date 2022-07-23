@@ -2591,5 +2591,13 @@
     "choice3": "Russian",
     "choice4": "Khmer",
     "answer": 4
+  },
+  {
+    "question": "What spirit is used to make a Tom Collins?",
+    "choice1": "Vodka",
+    "choice2": "Gin",
+    "choice3": "Rum",
+    "choice4": "Whiskey",
+    "answer": 2
   }
 ]

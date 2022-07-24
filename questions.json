@@ -2608,4 +2608,12 @@
     "choice4": "117",
     "answer": 3
   },
+  {
+    "question": "Which chemical element has the symbol 'cm'?",
+    "choice1": "Curium",
+    "choice2": "Caesium",
+    "choice3": "Chromium",
+    "choice4": "Copernicium",
+    "answer": 1
+  },
 ]

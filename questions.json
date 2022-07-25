@@ -2624,4 +2624,12 @@
     "choice4": "Kelvin",
     "answer": 4
   },
+  {
+    "question": "In mathematics, an array of binomial coefficients is commonly known as what?",
+    "choice1": "Pascal's Line",
+    "choice2": "Pascal's Triangle",
+    "choice3": "Pascal's Square",
+    "choice4": "Pascal's Pentagon",
+    "answer": 2
+  },
 ]

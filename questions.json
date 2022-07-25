@@ -2632,4 +2632,12 @@
     "choice4": "Pascal's Pentagon",
     "answer": 2
   },
+  {
+    "question": "Gstaad is a town in which European country?",
+    "choice1": "Austria",
+    "choice2": "Germany",
+    "choice3": "Switzerland",
+    "choice4": "Netherlands",
+    "answer": 3
+  }
 ]

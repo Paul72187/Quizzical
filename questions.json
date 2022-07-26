@@ -2639,5 +2639,13 @@
     "choice3": "Switzerland",
     "choice4": "Netherlands",
     "answer": 3
+  },
+  {
+    "question": "England and Scotland were joined by the Acts of Union in which year?",
+    "choice1": "1300",
+    "choice2": "1521",
+    "choice3": "1707",
+    "choice4": "1879",
+    "answer": 3
   }
 ]

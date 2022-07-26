@@ -2647,5 +2647,13 @@
     "choice3": "1707",
     "choice4": "1879",
     "answer": 3
+  },
+  {
+    "question": "In which year was Abraham Lincoln assassinated?",
+    "choice1": "1865",
+    "choice2": "1881",
+    "choice3": "1899",
+    "choice4": "1910",
+    "answer": 1
   }
 ]

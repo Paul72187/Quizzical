@@ -2663,6 +2663,13 @@
     "choice3": "11 AD",
     "choice4": "380 AD",
     "answer": 1
-  }
-    
+  },
+  {
+    "question": "The U.S. Declaration of Independence was signed in which year?",
+    "choice1": "1694",
+    "choice2": "1736",
+    "choice3": "1776",
+    "choice4": "1814",
+    "answer": 3
+  }   
 ]

@@ -2671,5 +2671,13 @@
     "choice3": "1776",
     "choice4": "1814",
     "answer": 3
-  }   
+  },
+  {
+    "question": "Which year did the £1 note cease to be legal tender in the UK?","
+    "choice1": "1985",
+    "choice2": "1986",
+    "choice3": "1987",
+    "choice4": "1988",
+    "answer": 4
+  }
 ]

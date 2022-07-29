@@ -2687,5 +2687,13 @@
     "choice3": "Todd Terry",
     "choice4": "Armand Van Helden",
     "answer": 2
+  },
+  {
+    "question": "Which long running soap opera saw its final episode air in the UK on 29th July 2022?",
+    "choice1": "Brookside",
+    "choice2": "Crossroads",
+    "choice3": "Home And Away",
+    "choice4": "Neighbours",
+    "answer": 4
   }
 ]

@@ -2695,5 +2695,13 @@
     "choice3": "Home And Away",
     "choice4": "Neighbours",
     "answer": 4
+  },
+  {
+    "question": "Which former Neighbours actor had a hit with 'Mona' in the UK in 1990?",
+    "choice1": "Kylie Minogue",
+    "choice2": "Jason Donovan",
+    "choice3": "Craig McLachlan",
+    "choice4": "Stefan Dennis",
+    "answer": 3
   }
 ]

@@ -2361,11 +2361,11 @@
   },
   {
     "question": "At how many degrees Fahrenheit does water boil?",
-    "choice1": "210"
-    "choice2": "212"
-    "choice3": "214"
-    "choice4": "216"
-    "answer" 2
+    "choice1": "210",
+    "choice2": "212",
+    "choice3": "214",
+    "choice4": "216",
+    "answer": 2
   },
   {
     "question": "In which city does the River Lagan flow?",
@@ -2411,7 +2411,6 @@
     "question": "How many cards are there in a standard deck of playing cards without jokers?",
     "choice1": "48",
     "choice2": "52",
-
     "choice3": "56",
     "choice4": "60",
     "answer": 2

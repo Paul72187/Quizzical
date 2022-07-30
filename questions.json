@@ -2702,5 +2702,13 @@
     "choice3": "Craig McLachlan",
     "choice4": "Stefan Dennis",
     "answer": 3
-  }
+  },
+  {
+    "question": "Which soundtrack remained at No.1 on the UK Album Chart for the entire duration of 1959?",
+    "choice1": "Pal Joey",
+    "choice2": "The King and I",
+    "choice3": "The Duke Wore Jeans",
+    "choice4": "South Pacific",
+    "answer": 4
+  },
 ]

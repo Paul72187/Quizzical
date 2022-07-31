@@ -2726,5 +2726,13 @@
     "choice3": "Rhea",
     "choice4": "Lapetus",
     "answer": 1
+  },
+  {
+    "question": "What were Snickers chocolate bars called before they were rebranded?",
+    "choice1": "Canter",
+    "choice2": "Sprint",
+    "choice3": "Marathon",
+    "choice4": "Stroll",
+    "answer": 3
   }
 ]

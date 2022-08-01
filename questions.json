@@ -2736,7 +2736,7 @@
     "answer": 3
   },
   {
-    "question": "Who was the original sponsor of the London Eye?"
+    "question": "Who was the original sponsor of the London Eye?",
     "choice1": "EDF Energy",
     "choice2": "British Airways",
     "choice3": "Coca Cola",
@@ -2744,7 +2744,7 @@
     "answer": 2
   },
   {
-    "question": "'Speech' was a rapper in which of these groups?"
+    "question": "'Speech' was a rapper in which of these groups?",
     "choice1": "Fugees",
     "choice2": "Wu-Tang Clan",
     "choice3": "Public Enemy",

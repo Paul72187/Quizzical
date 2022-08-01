@@ -2743,4 +2743,12 @@
     "choice4": "lastminute.com",
     "answer": 2
   },
+  {
+    "question": "'Speech' was a rapper in which of these groups?"
+    "choice1": "Fugees",
+    "choice2": "Wu-Tang Clan",
+    "choice3": "Public Enemy",
+    "choice4": "Arrested Development",
+    "answer": 4
+  }
 ]

@@ -381,7 +381,6 @@
     "choice2": "Siberia",
     "choice3": "Anatolia",
     "choice4": "Dagestan",
-    "choice4": "Florida",
     "answer": 2
   },
   {
@@ -389,6 +388,7 @@
     "choice1": "Battering Ram",
     "choice2": "Crossbow",
     "choice3": "Catapult",
+    "choice4": "Arrow",
     "answer": 2
   },
   {
@@ -404,7 +404,7 @@
     "choice1": "Texas",
     "choice2": "California",
     "choice3": "Kentucky",
-    "choice4": "Arrow",
+    "choice4": "Florida",
     "answer": 3
   },
   {

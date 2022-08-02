@@ -2750,5 +2750,13 @@
     "choice3": "Public Enemy",
     "choice4": "Arrested Development",
     "answer": 4
-  }
+  },
+  {
+    "question": "What is 4 to the power of 4?",
+    "choice1": "64",
+    "choice2": "96",
+    "choice3": "192",
+    "choice4": "256",
+    "answer": 4
+  },
 ]

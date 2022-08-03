@@ -2775,4 +2775,12 @@
     "choice4": "Liz Truss and Tom Tugendhat",
     "answer": 2
   },
+  {
+    "question": "In which year did Eritrea gain independence from Ethiopia?",
+    "choice1": "1991",
+    "choice2": "1992",
+    "choice3": "1993",
+    "choice4": "1994",
+    "answer": 3
+  }
 ]

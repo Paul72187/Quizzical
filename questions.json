@@ -2766,5 +2766,13 @@
     "choice3": "CABDE",
     "choice4": "DCABE",
     "answer": 3
-  }
+  },
+  {
+    "question": "Which two MPs contested for the Conservative party leadership in the summer of 2022?",
+    "choice1": "Liz Truss and Penny Mordaunt",
+    "choice2": "Liz Truss and Rishi Sunak",
+    "choice3": "Liz Truss and Kemi Badenoch",
+    "choice4": "Liz Truss and Tom Tugendhat",
+    "answer": 2
+  },
 ]

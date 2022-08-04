@@ -2798,5 +2798,13 @@
     "choice3": "50%",
     "choice4": "25%",
     "answer": 4
+  },
+  {
+    "question": "Which one these places is not a town or city in Slovenia?",
+    "choice1": "Perast",
+    "choice2": "Koper",
+    "choice3": "Kranj",
+    "choice4": "Maribor",
+    "answer": 1
   }
 ]

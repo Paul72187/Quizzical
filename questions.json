@@ -2791,4 +2791,12 @@
     "choice4": "The Chihuahua Desert",
     "answer": 4
   },
+  {
+    "question": "Approximately hous much of Earth's land surface is covered by desert?",
+    "choice1": "10%",
+    "choice2": "75%",
+    "choice3": "50%",
+    "choice4": "25%",
+    "answer": 4
+  }
 ]

@@ -2806,5 +2806,13 @@
     "choice3": "Kranj",
     "choice4": "Maribor",
     "answer": 1
+  },
+  {
+    "question": "Which African country is the only one in the world to lie entirely 1,000 metres above sea level?",
+    "choice1": "Djibouti",
+    "choice2": "Chad",
+    "choice3": "Lesotho",
+    "choice4": "Togo",
+    "answer": 3
   }
 ]

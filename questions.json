@@ -2831,4 +2831,12 @@
     "choice4": "Gabon",
     "answer": 1
   },
+  {
+    "question": "Who released an album entitled 'Renaissance' in 2022?",
+    "choice1": "Pink",
+    "choice2": "Madonna",
+    "choice3": "Lauryn Hill",
+    "choice4": "Beyonce",
+    "answer": 4
+  }
 ]

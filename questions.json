@@ -2822,5 +2822,13 @@
     "choice3": "Kenya",
     "choice4": "Tanzania",
     "answer": 2
-  }
+  },
+  {
+    "question": "What was the Republic of Upper Volta, renamed in 1984?",
+    "choice1": "Burkina Faso",
+    "choice2": "Benin",
+    "choice3": "Togo",
+    "choice4": "Gabon",
+    "answer": 1
+  },
 ]

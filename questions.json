@@ -2878,5 +2878,13 @@
     "choice3": "13",
     "choice4": "14",
     "answer": 2
-  }
+  },
+  {
+    "question": "What was the turnout rate for the Scottish Independence Referendum held in 2014?",
+    "choice1": "64.6%",
+    "choice2": "74.6%",
+    "choice3": "84.6%",
+    "choice4": "94.6%",
+    "answer": 3
+  },
 ]

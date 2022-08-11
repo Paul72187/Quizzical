@@ -2903,4 +2903,12 @@
     "choice4": "18",
     "answer": 1
   },
+  {
+    "question": "In which American state would you find Denali?",
+    "choice1": "Alabama",
+    "choice2": "Arkansas",
+    "choice3": "Alaska",
+    "choice4": "Arizona",
+    "answer": 3
+  }
 ]

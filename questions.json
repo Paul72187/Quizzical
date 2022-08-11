@@ -2894,5 +2894,13 @@
     "choice3": "Nas",
     "choice4": "Snoop Dogg",
     "answer": 1
-  }
+  },
+  {
+    "question": "How many republics made up the former Soviet Union?",
+    "choice1": "15",
+    "choice2": "12",
+    "choice3": "20",
+    "choice4": "18",
+    "answer": 1
+  },
 ]

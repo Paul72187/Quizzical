@@ -2919,4 +2919,12 @@
     "choice4": "Virginia",
     "answer": 2
   },
+  {
+    "question": "What is the title of Liane Moriaty's 2022 book?",
+    "choice1": "Apples Never Ripen",
+    "choice2": "Apples Never Rot",
+    "choice3": "Apples Never Sell",
+    "choice4": "Apples Never Fall",
+    "answer": 4
+  }
 ]

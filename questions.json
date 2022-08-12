@@ -2910,5 +2910,13 @@
     "choice3": "Alaska",
     "choice4": "Arizona",
     "answer": 3
-  }
+  },
+  {
+    "question": "Which US state is located closest to Africa?",
+    "choice1": "Florida",
+    "choice2": "Maine",
+    "choice3": "Maryland",
+    "choice4": "Virginia",
+    "answer": 2
+  },
 ]

@@ -2935,4 +2935,12 @@
     "choice4": "Raging",
     "answer": 1
   },
+  {
+    "question": "'La Primavera' in Italian translates to which season in English?",
+    "choice1": "Winter",
+    "choice2": "Spring",
+    "choice3": "Summer",
+    "choice4": "Autumn",
+    "answer": 2
+  }
 ]

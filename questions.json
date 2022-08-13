@@ -2926,5 +2926,13 @@
     "choice3": "Apples Never Sell",
     "choice4": "Apples Never Fall",
     "answer": 4
-  }
+  },
+  {
+    "question": "The spicy 'arrabiata' sauce typically found with pasta dishes translates as what in English?",
+    "choice1": "Angry",
+    "choice2": "Confused",
+    "choice3": "Surprised",
+    "choice4": "Raging",
+    "answer": 1
+  },
 ]

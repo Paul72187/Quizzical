@@ -2942,5 +2942,13 @@
     "choice3": "Summer",
     "choice4": "Autumn",
     "answer": 2
-  }
+  },
+  {
+    "question": "Which of Earth's oceans has the deepest point?",
+    "choice1": "Arctic Ocean",
+    "choice2": "Atlantic Ocean",
+    "choice3": "Indian Ocean",
+    "choice4": "Pacific Ocean",
+    "answer": 4
+  },
 ]

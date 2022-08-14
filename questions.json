@@ -2951,4 +2951,12 @@
     "choice4": "Pacific Ocean",
     "answer": 4
   },
+  {
+    "question": "Which football club returned to the English Premier League in 2022 after a 23-year absence?",
+    "choice1": "Sheffield Wednesday",
+    "choice2": "Coventry City",
+    "choice3": "Nottingham Forest",
+    "choice4": "Blackburn Rovers",
+    "answer": 3
+  }
 ]

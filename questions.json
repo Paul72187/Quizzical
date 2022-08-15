@@ -2967,4 +2967,12 @@
     "choice4": "Kelly Holmes",
     "answer": 1
   },
+  {
+    "question": "'Sugar snap' is a common variety of which type of vegetable?",
+    "choice1": "Bean",
+    "choice2": "Pea",
+    "choice3": "Carrot",
+    "choice4": "Beetroot",
+    "answer": 2
+  }
 ]

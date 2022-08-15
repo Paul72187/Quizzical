@@ -2958,5 +2958,13 @@
     "choice3": "Nottingham Forest",
     "choice4": "Blackburn Rovers",
     "answer": 3
-  }
+  },
+  {
+    "question": "Which Olympic gold medallist was a contestant in the 2016 series of 'Strictly Come Dancing'?",
+    "choice1": "Greg Rutherford",
+    "choice2": "Linford Christie",
+    "choice3": "Sally Gunnell",
+    "choice4": "Kelly Holmes",
+    "answer": 1
+  },
 ]

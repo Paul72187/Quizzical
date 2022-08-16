@@ -2974,5 +2974,13 @@
     "choice3": "Carrot",
     "choice4": "Beetroot",
     "answer": 2
-  }
+  },
+  {
+    "question": "Who released an album in 1998 entitled 'You've Come A Long Way, Baby'?",
+    "choice1": "Chemical Brothers",
+    "choice2": "Basement Jaxx",
+    "choice3": "Faithless",
+    "choice4": "Fatboy Slim",
+    "answer": 4
+  },
 ]

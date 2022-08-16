@@ -2983,4 +2983,12 @@
     "choice4": "Fatboy Slim",
     "answer": 4
   },
+  {
+    "question": "In which decade was the Mini hatchback launched by BMW?",
+    "choice1": "1980s",
+    "choice2": "1990s",
+    "choice3": "2000s",
+    "choice4": "2010s",
+    "answer": 3
+  }
 ]

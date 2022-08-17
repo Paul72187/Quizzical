@@ -2990,5 +2990,13 @@
     "choice3": "2000s",
     "choice4": "2010s",
     "answer": 3
-  }
+  },
+  {
+    "question": "What was the price of a first class stamp in the UK in 1990?",
+    "choice1": "17p",
+    "choice2": "22p",
+    "choice3": "27p",
+    "choice4": "32p",
+    "answer": 2
+  },
 ]

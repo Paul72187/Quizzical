@@ -3006,5 +3006,13 @@
     "choice3": "Adam Boulton",
     "choice4": "Tom Newton Dunn",
     "answer": 1
-  }
+  },
+  {
+    "question": "Which one of these trees is the title of a poem by Robert Frost?",
+    "choice1": "Elms",
+    "choice2": "Birches",
+    "choice3": "Oaks",
+    "choice4": "Chesnuts",
+    "answer": 2
+  },
 ]

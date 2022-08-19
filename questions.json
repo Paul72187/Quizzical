@@ -3030,5 +3030,13 @@
     "choice3": "Marriage",
     "choice4": "Break-ups",
     "answer": 3
-  }
+  },
+  {
+    "question": "What is 76 multiplied by 0.5?",
+    "choice1": "38",
+    "choice2": "48",
+    "choice3": "68",
+    "choice4": "152",
+    "answer": 1
+  },
 ]

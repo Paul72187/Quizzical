@@ -3039,4 +3039,12 @@
     "choice4": "152",
     "answer": 1
   },
+  {
+    "question": "Who won the French Open tennis title in the women's draw in 1997?",
+    "choice1": "Martina Hingis",
+    "choice2": "Steffi Graf",
+    "choice3": "Arantxa Sanchez-Vicario",
+    "choice4": "Iva Majoli",
+    "answer": 4
+  }
 ]

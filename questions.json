@@ -3046,5 +3046,13 @@
     "choice3": "Arantxa Sanchez-Vicario",
     "choice4": "Iva Majoli",
     "answer": 4
-  }
+  },
+  {
+    "question": "In what year did Emmerdale first appear on UK TV screens?",
+    "choice1": "1968",
+    "choice2": "1970",
+    "choice3": "1972",
+    "choice4": "1974",
+    "answer": 3
+  },
 ]

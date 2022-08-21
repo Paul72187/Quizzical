@@ -3071,4 +3071,12 @@
     "choice4": "The Red Lion",
     "answer": 4
   },
+  {
+    "question": "In which discipline did Roger Penrose win a Nobel Prize in 2020?",
+    "choice1": "Physics",
+    "choice2": "Chemistry",
+    "choice3": "Physiology or Medicine",
+    "choice4": "Literature",
+    "answer": 1
+  }
 ]

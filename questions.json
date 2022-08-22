@@ -3087,4 +3087,12 @@
     "choice4": "Borna Coric",
     "answer": 4
   },
+  {
+    "question": "In which athletics event did Keely Hodgkinson win a gold medal at the European Championships in August 2022?",
+    "choice1": "400m",
+    "choice2": "4x400m",
+    "choice3": "800m",
+    "choice4": "1500m",
+    "answer": 3
+  }
 ]

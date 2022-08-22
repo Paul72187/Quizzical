@@ -3078,5 +3078,13 @@
     "choice3": "Physiology or Medicine",
     "choice4": "Literature",
     "answer": 1
-  }
+  },
+  {
+    "question": "Who became the lowest ranked male singles tennis player to win a Masters 1,000 event in Cincinnati in August 2022?",
+    "choice1": "Stan Wawrinka",
+    "choice2": "Andy Murray",
+    "choice3": "Jack Sock",
+    "choice4": "Borna Coric",
+    "answer": 4
+  },
 ]

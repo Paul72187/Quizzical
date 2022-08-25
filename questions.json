@@ -3134,5 +3134,13 @@
     "choice3": "Brutal",
     "choice4": "Relaxed",
     "answer": 1
-  }
+  },
+  {
+    "question": "What is the neurological condition where information meant to stimulate one of your senses stimulates several of your senses?",
+    "choice1": "Synthetics",
+    "choice2": "Synthesiser",
+    "choice3": "Synesthesia",
+    "choice4": "Synesphobia",
+    "answer": 3
+  },
 ]

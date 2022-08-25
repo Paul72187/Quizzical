@@ -3143,4 +3143,12 @@
     "choice4": "Synesphobia",
     "answer": 3
   },
+  {
+    "question": "The Faroe Islands is a self-governing archipelago of which country?",
+    "choice1": "Norway",
+    "choice2": "Denmark",
+    "choice3": "Iceland",
+    "choice4": "UK",
+    "answer": 2
+  }
 ]

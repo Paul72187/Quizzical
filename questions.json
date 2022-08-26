@@ -3159,4 +3159,12 @@
     "choice4": "Bavaria",
     "answer": 1
   },
+  {
+    "question": "Who was the top scorer in the English Premier League four times in five seasons between 2001 and 2006?",
+    "choice1": "Jimmy-Floyd Hasselbaink",
+    "choice2": "Ruud Van Nistelrooy",
+    "choice3": "Alan Shearer",
+    "choice4": "Thierry Henry",
+    "answer": 4
+  }
 ]

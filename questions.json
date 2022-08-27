@@ -3175,4 +3175,12 @@
     "choice4": "Chile",
     "answer": 2
   },
+  {
+    "question": "Which dance act revived Bell Biv Devoe's hit 'Poison' in 2022?",
+    "choice1": "Calvin Harris",
+    "choice2": "David Guetta",
+    "choice3": "Hot Since 82",
+    "choice4": "Eric Prydz",
+    "answer": 3
+  }
 ]

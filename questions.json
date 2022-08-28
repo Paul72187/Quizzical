@@ -3182,5 +3182,14 @@
     "choice3": "Hot Since 82",
     "choice4": "Eric Prydz",
     "answer": 3
-  }
+  },
+  {
+    "question": "Who released a greatest hits compilation entitled 'Finally Enough Love' in 2022?",
+    "choice1": "Madonna",
+    "choice2": "Kylie Minogue",
+    "choice3": "Kate Bush",
+    "choice4": "Cher",
+    "answer": 1
+  },
+  
 ]

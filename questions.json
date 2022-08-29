@@ -3207,4 +3207,12 @@
     "choice4": "Football",
     "answer": 2
   },
+  {
+    "question": "With which constructor did Mika Hakkinen win both the 1998 and 1999 Formula One world championships?",
+    "choice1": "Williams",
+    "choice2": "Ferrari",
+    "choice3": "Lotus",
+    "choice4": "McLaren",
+    "answer": 4
+  }
 ]

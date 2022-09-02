@@ -3271,4 +3271,12 @@
     "choice4": "81",
     "answer": 2
   },
+  {
+    "question": "In algebra, what is 2x + x?",
+    "choice1": "2x + x",
+    "choice2": "2x + 2x",
+    "choice3": "2x",
+    "choice4": "3x",
+    "answer": 4
+  }
 ]

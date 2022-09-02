@@ -3262,5 +3262,13 @@
     "choice3": "Simply Red - Life",
     "choice4": "Robson & Jerome - Robson & Jerome",
     "answer": 4
-  }
+  },
+  {
+    "question": "What is 3 cubed?",
+    "choice1": "9",
+    "choice2": "27",
+    "choice3": "54",
+    "choice4": "81",
+    "answer": 2
+  },
 ]

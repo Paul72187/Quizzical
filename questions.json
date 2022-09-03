@@ -3196,7 +3196,7 @@
     "choice1": "Andre Agassi",
     "choice2": "Pete Sampras",
     "choice3": "Pat Rafter",
-    "choice4": "Yvgeny Kafelnikov",
+    "choice4": "Yevgeny Kafelnikov",
     "answer": 3
   },
   {
@@ -3287,4 +3287,12 @@
     "choice4": "20",
     "answer": 3
   },
+  {
+    "question": "The film 'Kick Out The Jams: The Story of XFM' released in 2022 is a story about what?",
+    "choice1": "A pop-up restaurant",
+    "choice2": "A jam factory",
+    "choice3": "The UK club scene",
+    "choice4": "A pirate radio station",
+    "answer": 4
+  }
 ]

@@ -3294,5 +3294,13 @@
     "choice3": "The UK club scene",
     "choice4": "A pirate radio station",
     "answer": 4
-  }
+  },
+  {
+    "question": "What does the French word 'deja' translate to in English?",
+    "choice1": "Alright",
+    "choice2": "Already",
+    "choice3": "All gone",
+    "choice4": "All done",
+    "answer": 2
+  },
 ]

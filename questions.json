@@ -3303,4 +3303,12 @@
     "choice4": "All done",
     "answer": 2
   },
+  {
+    "question": "What is the economic term for a combination of slow growth, high unemployment and rising prices?",
+    "choice1": "Inflation",
+    "choice2": "Deflation",
+    "choice3": "Stagflation",
+    "choice4": "Nullflation",
+    "answer": 3
+  }
 ]

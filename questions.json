@@ -3326,5 +3326,13 @@
     "choice3": "1977",
     "choice4": "1978",
     "answer": 2
+  },
+  {
+    "question": "What is the capital city of Tonga?",
+    "choice1": "Nuku'alofa",
+    "choice2": "Suva",
+    "choice3": "Apia",
+    "choice4": "Ngerulmud",
+    "answer": 1
   }
 ]

@@ -3310,5 +3310,13 @@
     "choice3": "Stagflation",
     "choice4": "Nullflation",
     "answer": 3
-  }
+  },
+  {
+    "question"; "What does the German word 'Apotheke' translate to in English?",
+    "choice1": "Butcher",
+    "choice2": "Greengrocer",
+    "choice3": "Ironmonger",
+    "choice4": "Chemist",
+    "answer": 4
+  },
 ]

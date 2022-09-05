@@ -3312,11 +3312,19 @@
     "answer": 3
   },
   {
-    "question"; "What does the German word 'Apotheke' translate to in English?",
+    "question": "What does the German word 'Apotheke' translate to in English?",
     "choice1": "Butcher",
     "choice2": "Greengrocer",
     "choice3": "Ironmonger",
     "choice4": "Chemist",
     "answer": 4
   },
+  {
+    "question": "In which year did Sue Barker win the tennis French Open?",
+    "choice1": "1975",
+    "choice2": "1976",
+    "choice3": "1977",
+    "choice4": "1978",
+    "answer": 2
+  }
 ]

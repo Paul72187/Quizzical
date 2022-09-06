@@ -3334,5 +3334,13 @@
     "choice3": "Apia",
     "choice4": "Ngerulmud",
     "answer": 1
-  }
+  },
+  {
+    "question": "Who scored a back-heeled goal for England in the Women's Euro semi-final in 2022?",
+    "choice1": "Lucy Bronze",
+    "choice2": "Fran Kirby",
+    "choice3": "Beth Mead",
+    "choice4": "Alessia Russo",
+    "answer": 4
+  },
 ]

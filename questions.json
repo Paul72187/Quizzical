@@ -3343,4 +3343,12 @@
     "choice4": "Alessia Russo",
     "answer": 4
   },
+  {
+    "question": "Which artist released an album entitled 'The Car' in 2022?",
+    "choice1": "Muse",
+    "choice2": "Paolo Nutini",
+    "choice3": "Arctic Monkeys",
+    "choice4": "Red Hot Chili Peppers",
+    "answer": 3
+  }
 ]

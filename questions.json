@@ -3359,4 +3359,12 @@
     "choice4": "Thursday 8th September 2022",
     "answer": 2
   },
+  {
+    "question": "Who became the oldest nominee for the Booker Prize in September 2022?",
+    "choice1": "Alan Garner",
+    "choice2": "Percival Everett",
+    "choice3": "Elizabeth Strout",
+    "choice4": "NoViolet Bulawayo",
+    "answer": 1
+  }
 ]

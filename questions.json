@@ -3350,5 +3350,13 @@
     "choice3": "Arctic Monkeys",
     "choice4": "Red Hot Chili Peppers",
     "answer": 3
-  }
+  },
+  {
+    "question": "On which day was Liz Truss formally appointed as British Prime Minister?",
+    "choice1": "Monday 5th September 2022",
+    "choice2": "Tuesday 6th September 2022",
+    "choice3": "Wednesday 7th September 2022",
+    "choice4": "Thursday 8th September 2022",
+    "answer": 2
+  },
 ]

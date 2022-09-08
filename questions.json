@@ -3375,4 +3375,12 @@
     "choice4": "CDU & FPD",
     "answer": 4
   },
+  {
+    "question": "Mart Laar is a former Prime Minister of which European country?",
+    "choice1": "Finland",
+    "choice2": "Germany",
+    "choice3": "Estonia",
+    "choice4": "Iceland",
+    "answer": 3
+  }
 ]

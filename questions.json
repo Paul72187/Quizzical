@@ -3366,5 +3366,13 @@
     "choice3": "Elizabeth Strout",
     "choice4": "NoViolet Bulawayo",
     "answer": 1
-  }
+  },
+  {
+    "question": "Which two parties formed a coalition government in Germany between 2009 and 2013?",
+    "choice1": "SPD & CDU",
+    "choice2": "SPD & Green",
+    "choice3": "CDU & Green",
+    "choice4": "CDU & FPD",
+    "answer": 4
+  },
 ]

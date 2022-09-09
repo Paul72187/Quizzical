@@ -3391,4 +3391,12 @@
     "choice4": "427 days",
     "answer": 3
   },
+  {
+    "question": "Who was the British monarch immediately before Queen Victoria came to the throne in 1837?",
+    "choice1": "George II",
+    "choice2": "George III",
+    "choice3": "George IV",
+    "choice4": "William IV",
+    "answer": 4
+  }
 ]

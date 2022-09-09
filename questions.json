@@ -3382,5 +3382,13 @@
     "choice3": "Estonia",
     "choice4": "Iceland",
     "answer": 3
-  }
+  },
+  {
+    "question": "How many days did Edward VIII spend on the throne before abdicating?",
+    "choice1": "127 days",
+    "choice2": "227 days",
+    "choice3": "327 days",
+    "choice4": "427 days",
+    "answer": 3
+  },
 ]

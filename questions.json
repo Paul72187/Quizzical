@@ -2541,7 +2541,7 @@
     "choice2": "Jeremy Vine",
     "choice3": "Scott Mills",
     "choice4": "Steve Wright",
-    "answer": 3
+    "answer": 4
   },
   {
     "question": "In July 2022, which album became the first title to sell over 7 million copies in the UK alone?",
@@ -3414,5 +3414,13 @@
     "choice3": "Yerevan",
     "choice4": "Tbilisi",
     "answer": 2
-  }
+  },
+  {
+    "question": "Which of these is not a place on the Isle of Wight?",
+    "choice1": "Bayswater",
+    "choice2": "Cowes",
+    "choice3": "Freshwater",
+    "choice4": "Yarmouth",
+    "answer": 1
+  },
 ]

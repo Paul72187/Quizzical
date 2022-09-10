@@ -3398,5 +3398,13 @@
     "choice3": "George IV",
     "choice4": "William IV",
     "answer": 4
-  }
+  },
+  {
+    "question": "Who was appointed as Chancellor of the Exchequer in September 2022?",
+    "choice1": "Kwasi Kwarteng",
+    "choice2": "Sajid Javid",
+    "choice3": "Suella Braverman",
+    "choice4": "Rishi Sunak",
+    "answer": 1
+  },
 ]

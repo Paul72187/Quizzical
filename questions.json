@@ -3423,4 +3423,12 @@
     "choice4": "Yarmouth",
     "answer": 1
   },
+  {
+    "question": "In which year did Finland join the European Union?",
+    "choice1": "1973",
+    "choice2": "1981",
+    "choice3": "1986",
+    "choice4": "1995",
+    "answer": 4
+  }
 ]

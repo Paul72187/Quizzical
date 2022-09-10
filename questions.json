@@ -3407,4 +3407,12 @@
     "choice4": "Rishi Sunak",
     "answer": 1
   },
+  {
+    "question": "What is the capital city of Moldova?",
+    "choice1": "Baku",
+    "choice2": "Chisinau",
+    "choice3": "Yerevan",
+    "choice4": "Tbilisi",
+    "answer": 2
+  }
 ]

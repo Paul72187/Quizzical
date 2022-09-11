@@ -3430,5 +3430,13 @@
     "choice3": "1986",
     "choice4": "1995",
     "answer": 4
-  }
+  },
+  {
+    "question": "Zadok The Priest by Handel was composed for the coronation of which British monarch?",
+    "choice1": "George I",
+    "choice2": "George II",
+    "choice3": "George III",
+    "choice4": "George IV",
+    "answer": 2
+  },
 ]

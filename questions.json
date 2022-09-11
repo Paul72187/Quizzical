@@ -3439,4 +3439,12 @@
     "choice4": "George IV",
     "answer": 2
   },
+  {
+    "question": "What is the approximate area of Brazi?",
+    "choice1": "6.5 million square km",
+    "choice2": "7.5 million square km",
+    "choice3": "8.5 million square km",
+    "choice4": "9.5 million square km",
+    "answer": 3
+  }
 ]

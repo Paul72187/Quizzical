@@ -3455,4 +3455,12 @@
     "choice4": "Karen Khachanov",
     "answer": 3
   },
+  {
+    "question": "Who became the youngest ever world number one in men's tennis in September 2022?",
+    "choice1": "Casper Ruud",
+    "choice2": "Felix Auger-Aliassime",
+    "choice3": "Stefanos Tsitsipas",
+    "choice4": "Carlos Alcaraz",
+    "answer": 4
+  }
 ]

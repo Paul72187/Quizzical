@@ -3446,5 +3446,13 @@
     "choice3": "8.5 million square km",
     "choice4": "9.5 million square km",
     "answer": 3
-  }
+  },
+  {
+    "question": "Who was the runner-up in the men's tennis singles at the US Open in 2022?",
+    "choice1": "Andrey Rublev",
+    "choice2": "Frances Tiafoe",
+    "choice3": "Casper Ruud",
+    "choice4": "Karen Khachanov",
+    "answer": 3
+  },
 ]

@@ -3487,5 +3487,12 @@
     "choice4": "Belgium",
     "answer": 2
   },
-  
+  {
+    "question": "Which long-running soap opera did Danny Dyer join in 2013?",
+    "choice1": "Emmerdale",
+    "choice2": "Coronation Street",
+    "choice3": "Hollyoaks",
+    "choice4": "Eastenders",
+    "answer": 4
+  }
 ]

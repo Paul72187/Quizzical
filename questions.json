@@ -3494,5 +3494,14 @@
     "choice3": "Hollyoaks",
     "choice4": "Eastenders",
     "answer": 4
-  }
+  },
+  {
+    "question": "What is the tenth term of the Fibonacci sequence?",
+    "choice1": "34",
+    "choice2": "55",
+    "choice3": "89",
+    "choice4": "144",
+    "answer": 2
+  },
+  
 ]

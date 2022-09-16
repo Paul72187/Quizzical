@@ -3510,5 +3510,13 @@
     "choice3": "Xenon",
     "choice4": "Tennessine",
     "answer": 4
-  }
+  },
+  {
+    "question": "Which tennis player announced his retirement from the sport after 24 years in September 2022?",
+    "choice1": "Andy Roddick",
+    "choice2": "Feliciano Lopez",
+    "choice3": "Roger Federer",
+    "choice4": "Lleyton Hewitt",
+    "answer": 3
+  },
 ]

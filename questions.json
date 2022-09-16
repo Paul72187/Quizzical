@@ -3526,5 +3526,13 @@
     "choice3": "Somija",
     "choice4": "Suomija",
     "answer": 1
+  },
+  {
+    "question": "Which one of these West African countries does not use the West African CFA franc as its unit of currency?",
+    "choice1": "Liberia",
+    "choice2": "Senegal",
+    "choice3": "Mali",
+    "choice4": "Burkina Faso",
+    "answer": 1
   }
 ]

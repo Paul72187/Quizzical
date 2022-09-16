@@ -3542,5 +3542,13 @@
     "choice3": "Garlic Beef",
     "choice4": "Garlic Prawns",
     "answer": 4
+  },
+  {
+    "question": "Which former BBC journalists launched the podcast entitled 'The News Agents' in August 2022?",
+    "choice1": "Anna Ford and Andrew Harvey",
+    "choice2": "Kate Silverton and Philip Hayton",
+    "choice3": "Emily Maitlis and Jon Sopel",
+    "choice4": "Louise Minchin and Dermot Murnaghan",
+    "answer": 3
   }
 ]

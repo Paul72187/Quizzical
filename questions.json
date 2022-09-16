@@ -3534,5 +3534,13 @@
     "choice3": "Mali",
     "choice4": "Burkina Faso",
     "answer": 1
+  },
+  {
+    "question": "The Spanish dish 'Gambas al Ajillo' translates as what in English?",
+    "choice1": "Garlic Pork",
+    "choice2": "Garlic Chicken",
+    "choice3": "Garlic Beef",
+    "choice4": "Garlic Prawns",
+    "answer": 4
   }
 ]

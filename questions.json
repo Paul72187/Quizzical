@@ -3559,4 +3559,12 @@
     "choice4": "Croxley",
     "answer": 2
   },
+  {
+    "question": "Which is the only UK parliamentary constituency that Labour gained from the Conservatives in the 2019 General Election?",
+    "choice1": "Kensington",
+    "choice2": "Chingford and Woodford Green",
+    "choice3": "Chesham and Amersham",
+    "choice4": "Putney",
+    "answer": 4
+  }
 ]

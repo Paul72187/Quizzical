@@ -3598,5 +3598,13 @@
     "choice3": "Oxygen",
     "choice4": "Sulphur",
     "answer": 2
+  },
+  {
+    "question": "In 1854, which meterologist founded what became The Met Office, having previously been captain of Darwin's HMS Beagle voyage?",
+    "choice1": "Robert FitzRoy",
+    "choice2": "Francis Beaufort",
+    "choice3": "Joseph Henry",
+    "choice4": "Gustave Gaspard Coriolis",
+    "answer": 2
   }
 ]

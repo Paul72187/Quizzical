@@ -3566,5 +3566,13 @@
     "choice3": "Chesham and Amersham",
     "choice4": "Putney",
     "answer": 4
-  }
+  },
+  {
+    "question": "In which year did dance & electronica DJ Pete Tong make his debut on BBC Radio 1?",
+    "choice1": "1989",
+    "choice2": "1990",
+    "choice3": "1991",
+    "choice4": "1992",
+    "answer": 3
+  },
 ]

@@ -3575,4 +3575,12 @@
     "choice4": "1992",
     "answer": 3
   },
+  {
+    "question": "Who became the BBC's new Political Editor in May 2022?",
+    "choice1": "Chris Mason",
+    "choice2": "Vicki Young",
+    "choice3": "Nick Eardley",
+    "choice4": "Alex Forsyth",
+    "answer": 1
+  }
 ]

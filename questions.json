@@ -3582,5 +3582,14 @@
     "choice3": "Nick Eardley",
     "choice4": "Alex Forsyth",
     "answer": 1
+  },
+  {
+    "question": "For which Rugby League club did Kevin Sinfield play for the entirety of his career?",
+    "choice1": "St. Helens",
+    "choice2": "Wigan Warriors",
+    "choice3": "Leeds Rhinos",
+    "choice4": "Castleford Tigers",
+    "answer": 3
   }
+    
 ]

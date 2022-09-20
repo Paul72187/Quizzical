@@ -3615,4 +3615,12 @@
     "choice4": "Celine Dion",
     "answer": 3
   },
+  {
+    "question": "In 1718, which pirate died in the battle off the coast of what is now North Carolina?",
+    "choice1": "Calico Jack",
+    "choice2": "Blackbeard",
+    "choice3": "Bartholomew Roberts",
+    "choice4": "Captain Kidd",
+    "answer": 2
+  }
 ]

@@ -3606,5 +3606,13 @@
     "choice3": "Joseph Henry",
     "choice4": "Gustave Gaspard Coriolis",
     "answer": 1
-  }
+  },
+  {
+    "question": "Which artist released an album entitled 'Love Deluxe' in 1992?",
+    "choice1": "Annie Lennox",
+    "choice2": "Tasmin Archer",
+    "choice3": "Sade",
+    "choice4": "Celine Dion",
+    "answer": 3
+  },
 ]

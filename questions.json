@@ -3630,5 +3630,13 @@
     "choice3": "Archbishop",
     "choice4": "Archetype",
     "answer": 1
+  },
+  {
+    "question": "1757's Battle of Plassey was fought in which country?",
+    "choice1": "Egypt",
+    "choice2": "France",
+    "choice3": "Germany",
+    "choice4": "India",
+    "answer": 4
   }
 ]

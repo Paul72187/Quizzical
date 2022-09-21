@@ -3622,5 +3622,13 @@
     "choice3": "Bartholomew Roberts",
     "choice4": "Captain Kidd",
     "answer": 2
+  },
+  {
+    "question": "A 1970s novel by Russian author Aleksandr Solzhenitsyn is 'The Gulag' what?",
+    "choice1": "Archipelago",
+    "choice2": "Archeologist",
+    "choice3": "Archbishop",
+    "choice4": "Archetype",
+    "answer": 1
   }
 ]

@@ -3663,4 +3663,12 @@
     "chpice4": "Austria",
     "answer": 1
   },
+  {
+    "question": "Which of these zodiac signs is not represented by an animal with horns?",
+    "choice1": "Taurus",
+    "choice2": "Capricorn",
+    "choice3": "Aquarius",
+    "choice4": "Aries",
+    "answer": 3
+  }
 ]

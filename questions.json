@@ -3655,4 +3655,12 @@
     "choice4": "St. Peter",
     "answer": 1
   },
+  {
+    "question": "Duffle coats are named after a town in which country?",
+    "choice1": "Belgium",
+    "choice2": "Netherlands",
+    "choice3": "Germany",
+    "chpice4": "Austria",
+    "answer": 1
+  },
 ]

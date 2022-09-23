@@ -3670,5 +3670,13 @@
     "choice3": "Aquarius",
     "choice4": "Aries",
     "answer": 3
-  }
+  },
+  {
+    "question": "Who is the only tennis player other than Rafael Nadal and Novak Djokovic to have beaten Roger Federer in a Grand Slam final?",
+    "choice1": "Andy Murray",
+    "choice2": "Stan Wawrinka",
+    "choice3": "Marin Cilic",
+    "choice4": "Juan Martin Del Potro",
+    "answer": 4
+  },
 ]

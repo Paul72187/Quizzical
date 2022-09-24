@@ -3711,4 +3711,12 @@
     "choice4": "Judge Danforth",
     "answer": 3
   },
+  {
+    "question": "Which of these football clubs was in the English Championship in the 2022/2023 season?",
+    "choice1": "Ipswich Town",
+    "choice2": "Blackburn Rovers",
+    "choice3": "Sheffield Wednesday",
+    "choice4": "Bolton Wanderers",
+    "answer" 2
+  }
 ]

@@ -3686,5 +3686,14 @@
     "choice3": "Lancashire",
     "choice4": "Cumbria",
     "answer": 2
-  }
+  },
+  {
+    "question": "Who led the 'Brothers of Italy' party going into the Italian General Election of September 2022?",
+    "choice1": "Matteo Salvini",
+    "choice2": "Enrico Letta",
+    "choice3": "Giuseppe Conte",
+    "choice4": "Giorgia Meloni",
+    "answer": 4
+  },
+  
 ]

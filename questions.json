@@ -3702,5 +3702,13 @@
     "choice3": "Bolivia",
     "choice4": "Chile",
     "answer": 1
-  }
+  },
+  {
+    "question": "Which one of these characters does not feature in Arthur Miller's 'The Crucible'?",
+    "choice1": "Reverend Parris",
+    "choice2": "Reverend Hale",
+    "choice3": "Judge Hawthorne",
+    "choice4": "Judge Danforth",
+    "answer": 3
+  },
 ]

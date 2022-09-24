@@ -3695,5 +3695,12 @@
     "choice4": "Giorgia Meloni",
     "answer": 4
   },
-  
+  {
+    "question": "Salto is the second biggest city of which South American country?",
+    "choice1": "Uruguay",
+    "choice2": "Paraguay",
+    "choice3": "Bolivia",
+    "choice4": "Chile",
+    "answer": 1
+  }
 ]

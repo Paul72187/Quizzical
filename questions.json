@@ -3718,5 +3718,13 @@
     "choice3": "Sheffield Wednesday",
     "choice4": "Bolton Wanderers",
     "answer": 2
+  },
+  {
+    "question": "Which Rugby League Super League team became the first team to win the Grand Final four times in a row in September 2022?",
+    "choice1": "Leeds Rhinos",
+    "choice2": "Wigan Warriors",
+    "choice3": "Salford Red Devils",
+    "choice4": "St. Helens",
+    "answer": 4
   }
 ]

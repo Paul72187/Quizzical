@@ -3743,4 +3743,12 @@
     "choice4": "Jeremy Bowen",
     "answer": 4
   },
+  {
+    "question": "Which Britpop act released an album entitled 'I Should Coco' in 1995?",
+    "choice1": "Blur",
+    "choice2": "Oasis",
+    "choice3": "Supergrass",
+    "choice4": "Pulp",
+    "answer": 3
+  }
 ]

@@ -3734,5 +3734,13 @@
     "choice3": "Rebecca Kenna",
     "choice4": "Nutcharut Wongharuthai",
     "answer": 1
-  }
+  },
+  {
+    "question": "Who released the book 'The Making of the Modern Middle East: A Personal History' in September 2022?",
+    "choice1": "Lyse Doucet",
+    "choice2": "Alex Crawford",
+    "choice3": "Orla Guerin",
+    "choice4": "Jeremy Bowen",
+    "answer": 4
+  },
 ]

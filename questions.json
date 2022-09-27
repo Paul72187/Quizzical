@@ -3758,5 +3758,13 @@
     "choice3": "Black Wednesday",
     "choice4": "Black Thursday",
     "answer": 3
+  },
+  {
+    "question": "Which one of these former UK MPs did not represent the Liberal Democrats?",
+    "choice1": "Jo Swinson",
+    "choice2": "Louise Mensch",
+    "choice3": "Sarah Teather",
+    "choice4": "Lynne Featherstone",
+    "answer": 2
   }
 ]

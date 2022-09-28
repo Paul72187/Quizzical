@@ -3766,5 +3766,13 @@
     "choice3": "Sarah Teather",
     "choice4": "Lynne Featherstone",
     "answer": 2
-  }
+  },
+  {
+    "question": "Which journalist became MP for Tatton in 1997?",
+    "choice1": "Matt Frei",
+    "choice2": "Martin Bell",
+    "choice3": "Allan Little",
+    "choice4": "Brian Hanrahan",
+    "answer": 2
+  },
 ]

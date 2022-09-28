@@ -3775,4 +3775,12 @@
     "choice4": "Brian Hanrahan",
     "answer": 2
   },
+  {
+    "question": "Vaduz is the capital city of which European country?",
+    "choice1": "Liechtenstein",
+    "choice2": "Andorra",
+    "choice3": "Montenegro",
+    "choice4": "North Macedonia",
+    "answer": 1
+  }
 ]

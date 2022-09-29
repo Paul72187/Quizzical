@@ -3782,5 +3782,13 @@
     "choice3": "Montenegro",
     "choice4": "North Macedonia",
     "answer": 1
-  }
+  },
+  {
+    "question": "Sergey Lavrov has held which post in the Russian government since 2004?",
+    "choice1": "Interior Minister",
+    "choice2": "Foreign Minister",
+    "choice3": "Defence Minister",
+    "choice4": "Deputy Prime Minister",
+    "answer": 2
+  },
 ]

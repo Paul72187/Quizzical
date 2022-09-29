@@ -3791,4 +3791,12 @@
     "choice4": "Deputy Prime Minister",
     "answer": 2
   },
+  {
+    "question": "Which artist featured on Coolio's 'Gangsta's Paradise' in 1995?",
+    "choice1": "Nate Dogg",
+    "choice2": "Eric Williams",
+    "choice3": "Horace Brown",
+    "choice4": "LV",
+    "answer": 4
+  }
 ]

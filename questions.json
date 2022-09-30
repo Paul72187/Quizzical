@@ -3823,4 +3823,12 @@
     "choice4": "Robbie Fowler",
     "answer": 1
   },
+  {
+    "question": "Which English football team was the runner-up in both the FA Cup and the League Cup in 1993?",
+    "choice1": "Tottenham Hotspur",
+    "choice2": "Sheffield Wednesday",
+    "choice3": "Sheffield United",
+    "choice4": "Arsenal",
+    "answer": 2
+  }
 ]

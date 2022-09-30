@@ -3798,5 +3798,13 @@
     "choice3": "Horace Brown",
     "choice4": "LV",
     "answer": 4
-  }
+  },
+  {
+    "question"; "Which former Radio 1 DJ joined Radio 2 in 2018 to present 'Sounds of the 80s'?",
+    "choice1": "Bruno Brookes",
+    "choice2": "Jakki Brambles",
+    "choice3": "Gary Davies",
+    "choice4": "Lynn Parsons",
+    "answer": 3
+  },
 ]

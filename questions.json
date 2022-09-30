@@ -3814,5 +3814,13 @@
     "choice3": "A Funk Odyssey",
     "choice4": "Travelling Without Moving",
     "answer": 2
-  }
+  },
+  {
+    "question": "Which English footballer won 'The Golden Shoe' in the 1999/2000 season?",
+    "choice1": "Kevin Phillips",
+    "choice2": "Michael Owen",
+    "choice3": "Andrew Cole",
+    "choice4": "Robbie Fowler",
+    "answer": 1
+  },
 ]

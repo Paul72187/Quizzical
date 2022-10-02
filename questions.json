@@ -3839,4 +3839,12 @@
     "choice4": "Natalie Bennett and Jenny Jones",
     "answer": 1
   },
+  {
+    "question": "Who were the weekend presenters of BBC Breakfast when it launched in October 2000?",
+    "choice1": "Sophie Raworth and Jeremy Bowen",
+    "choice2": "Sian Williams and Bill Turnbull",
+    "choice3": "Sarah Montague and Darren Jordon",
+    "choice4": "Mishal Husain and Charlie Stayt",
+    "answer": 3
+  }
 ]

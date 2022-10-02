@@ -3830,5 +3830,13 @@
     "choice3": "Sheffield United",
     "choice4": "Arsenal",
     "answer": 2
-  }
+  },
+  {
+    "question": "Who were elected the co-leaders of the Green Party for England and Wales in October 2021?",
+    "choice1": "Carla Denyer and Adrian Ramsay",
+    "choice2": "Sian Berry and Jonathan Bartlett",
+    "choice3": "Caroline Lucas and Darren Johnson",
+    "choice4": "Natalie Bennett and Jenny Jones",
+    "answer": 1
+  },
 ]

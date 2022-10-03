@@ -3855,4 +3855,12 @@
     "choice4": "Marc-Andrea Huesler",
     "answer": 4
   },
+  {
+    "question": "Luiz Inacio Lula Da Silva is a political figure in which South American country?",
+    "choice1": "Venezuela",
+    "choice2": "Colombia",
+    "choice3": "Ecuador",
+    "choice4": "Brazil",
+    "answer": 4
+  }
 ]

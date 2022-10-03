@@ -3846,5 +3846,13 @@
     "choice3": "Sarah Montague and Darren Jordon",
     "choice4": "Mishal Husain and Charlie Stayt",
     "answer": 3
-  }
+  },
+  {
+    "question": "Which Swiss tennis player won his first ATP tour title in October 2022?",
+    "choice1": "Henri Laaksonen",
+    "choice2": "Marco Chiudinelli",
+    "choice3": "Marc Rosset",
+    "choice4": "Marc-Andrea Huesler",
+    "answer": 4
+  },
 ]

@@ -3862,5 +3862,13 @@
     "choice3": "Ecuador",
     "choice4": "Brazil",
     "answer": 4
-  }
+  },
+  {
+    "question": "Which of these albums was the second to be released by Robbie Williams as a solo artist?",
+    "choice1": "Sing When You're Winning",
+    "choice2": "I've Been Expecting You",
+    "choice3": "Escapology",
+    "choice4": "Life Thru A Lens",
+    "answer": 2
+  },
 ]

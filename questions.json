@@ -3878,5 +3878,21 @@
     "choice3": "People Hold On",
     "choice4": "Live Together",
     "answer": 3
-  }
+  },
+  {
+    "question": "Which parliamentary constituency does UK Prime Minister Liz Truss represent?",
+    "choice1": "North Norfolk",
+    "choice2": "North West Norfolk",
+    "choice3": "South Norfolk",
+    "choice4": "South West Norfolk",
+    "answer": 4
+  },
+  {
+    "question": "What is the name of the public body that provides independent economic forescasts for the UK government?",
+    "choice1": "Office for Budget Responsibility",
+    "choice2": "Institute for Fiscal Studies",
+    "choice3": "The Resolution Foundation",
+    "choice4": "Institute of Economic Affairs",
+    "answer": 1
+  } 
 ]

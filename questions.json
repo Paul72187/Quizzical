@@ -3903,4 +3903,12 @@
     "choice4": "William Gallas",
     "answer": 3
   },
+  {
+    "question"; "Which of these former UK Labour MPs went on to become NATO Secretary General?",
+    "choice1": "John Reid",
+    "choice2": "Charles Clarke",
+    "choice3": "Jack Cunningham",
+    "choice4": "George Robertson",
+    "answer": 4
+  }
 ]

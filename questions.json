@@ -3894,5 +3894,13 @@
     "choice3": "The Resolution Foundation",
     "choice4": "Institute of Economic Affairs",
     "answer": 1
-  } 
+  },
+  {
+    "question": "Which former Arsenal captain had the nickname 'Rodders'?",
+    "choice1": "Robin Van Persie",
+    "choice2": "Patrick Vieira",
+    "choice3": "Tony Adams",
+    "choice4": "William Gallas",
+    "answer": 3
+  },
 ]

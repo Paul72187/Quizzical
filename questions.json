@@ -3910,5 +3910,101 @@
     "choice3": "Jack Cunningham",
     "choice4": "George Robertson",
     "answer": 4
+  },
+  {
+    "question": "Which artist released an album entitled 'XXV' in 2022?",
+    "choice1": "Kylie Minogue",
+    "choice2": "Robbie Williams",
+    "choice3": "Gary Barlow",
+    "choice4": "Cher",
+    "answer": 2
+  },
+  {
+    "question": "Which player became the first in the English Premier League to score three consecutive home hattricks?",
+    "choice1": "Pierre-Emerick Aubameyang",
+    "choice2": "Mohamed Salah",
+    "choice3": "Erling Haaland",
+    "choice4": "Sergio Aguero",
+    "answer": 3
+  },
+  {
+    "question": "Who became the highest ever ranked male Norwegian tennis player in 2022?",
+    "choice1": "Casper Ruud",
+    "choice2": "Holger Rune",
+    "choice3": "Mikael Ymer",
+    "choice4": "Emil Ruusuvuori",
+    "answer": 1
+  },
+  {
+    "question": "What is the lowest temperature that has ever been recorded on Planet Earth?",
+    "choice1": "-89C",
+    "choice2": "-94C",
+    "choice3": "-99C",
+    "choice4": "-104C",
+    "answer": 1
+  },
+  {
+    "question": "Who is the only Rugby Union player to have scored points at two World Cup finals?",
+    "choice1": "Dan Carter",
+    "choice2": "Jonny Wilkinson",
+    "choice3": "Stephen Donald",
+    "choice4": "Thierry Dusautoir",
+    "answer": 2
+  },
+  {
+    "question": "In mathematics, what is the product of two prime numbers also known as?",
+    "choice1": "Halfprime",
+    "choice2": "Quasiprime",
+    "choice3": "Biprime",
+    "choice4": "Semiprime",
+    "answer": 4
+  },
+  {
+    "question": "In a round robin format containing 3 matches in a sporting tournament, what is the lowest possible number of wins a team or player can secure to progress to the knock-out stages?",
+    "choice1": "0",
+    "choice2": "1",
+    "choice3": "2",
+    "choice4": "3",
+    "answer": 2
+  },
+  {
+    "question": "The word 'langweilig' in German translates as what in English?",
+    "choice1": "Interesting",
+    "choice2": "Dull",
+    "choice3": "Boring",
+    "choice4": "Fascinating",
+    "answer": 3
+  },
+  {
+    "question": "'The distribution of a sample normalises as a sample size gets larger' pertains to which mathematical concept?",
+    "choice1": "Central Limit Theorem",
+    "choice2": "Normal Distribution",
+    "choice3": "Poisson Distribution",
+    "choice4": "Degrees of Freedom",
+    "answer": 1
+  },
+  {
+    "question": "The word 'murdar' in Romanian translates as what in English?",
+    "choice1": "Clean",
+    "choice2": "Tidy",
+    "choice3": "Dirty",
+    "choice4": "Disorganised",
+    "answer": 3
+  },
+  {
+    "question": "Monosaccherides are composed of which three chemical elements?",
+    "choice1": "Carbon, Hydrogen and Nitrogen",
+    "choice2": "Carbon, Hydrogen and Oxygen",
+    "choice3": "Carbon, Oxygen and Nitrogen",
+    "choice4": "Hydrogen, Oxygen and Nitrogen",
+    "answer": 2
+  },
+  {
+    "question": "What is the mathematical term '5!' equal to?",
+    "choice1": "6",
+    "choice2": "25",
+    "chioce3": "50",
+    "choice4": "120",
+    "answer": 4
   }
 ]

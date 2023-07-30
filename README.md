@@ -12,3 +12,6 @@ Clone the repo: `git clone https://github.com/Paul72187/Quizzical.git`
 
 ### Start Quizzical App
 Open the index.html file and then right click. Then click on 'Open with Live Server'. You will then be given your selection of 10 questions, selected at random from the JSON database, to test your general knowledge!
+
+### Deployment
+This app has been deployed to the following address: https://quizzical23.netlify.app/index.html
